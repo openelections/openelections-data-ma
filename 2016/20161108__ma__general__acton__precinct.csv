@@ -1,0 +1,121 @@
+county,town,precinct,office,district,party,candidate,votes
+middlesex,Acton,1,President,,,BLANK,37
+middlesex,Acton,2,President,,,BLANK,33
+middlesex,Acton,3,President,,,BLANK,29
+middlesex,Acton,4,President,,,BLANK,18
+middlesex,Acton,5,President,,,BLANK,36
+middlesex,Acton,6,President,,,BLANK,31
+middlesex,Acton,1,President,,Democratic,CLINTON and KAINE,1459
+middlesex,Acton,2,President,,Democratic,CLINTON and KAINE,1550
+middlesex,Acton,3,President,,Democratic,CLINTON and KAINE,1580
+middlesex,Acton,4,President,,Democratic,CLINTON and KAINE,1675
+middlesex,Acton,5,President,,Democratic,CLINTON and KAINE,1580
+middlesex,Acton,6,President,,Democratic,CLINTON and KAINE,1354
+middlesex,Acton,1,President,,Libertarian,JOHNSON and WELD,89
+middlesex,Acton,2,President,,Libertarian,JOHNSON and WELD,96
+middlesex,Acton,3,President,,Libertarian,JOHNSON and WELD,90
+middlesex,Acton,4,President,,Libertarian,JOHNSON and WELD,104
+middlesex,Acton,5,President,,Libertarian,JOHNSON and WELD,95
+middlesex,Acton,6,President,,Libertarian,JOHNSON and WELD,78
+middlesex,Acton,1,President,,Green-Rainbow,STEIN and BARAKA,30
+middlesex,Acton,2,President,,Green-Rainbow,STEIN and BARAKA,26
+middlesex,Acton,3,President,,Green-Rainbow,STEIN and BARAKA,44
+middlesex,Acton,4,President,,Green-Rainbow,STEIN and BARAKA,45
+middlesex,Acton,5,President,,Green-Rainbow,STEIN and BARAKA,33
+middlesex,Acton,6,President,,Green-Rainbow,STEIN and BARAKA,30
+middlesex,Acton,1,President,,Republican,TRUMP and PENCE,438
+middlesex,Acton,2,President,,Republican,TRUMP and PENCE,480
+middlesex,Acton,3,President,,Republican,TRUMP and PENCE,435
+middlesex,Acton,4,President,,Republican,TRUMP and PENCE,414
+middlesex,Acton,5,President,,Republican,TRUMP and PENCE,387
+middlesex,Acton,6,President,,Republican,TRUMP and PENCE,401
+middlesex,Acton,1,President,,,EVAN MCMULLIN,4
+middlesex,Acton,2,President,,,EVAN MCMULLIN,8
+middlesex,Acton,3,President,,,EVAN MCMULLIN,14
+middlesex,Acton,4,President,,,EVAN MCMULLIN,4
+middlesex,Acton,5,President,,,EVAN MCMULLIN,4
+middlesex,Acton,6,President,,,EVAN MCMULLIN,6
+middlesex,Acton,1,President,,,SCATTERED,27
+middlesex,Acton,2,President,,,SCATTERED,35
+middlesex,Acton,3,President,,,SCATTERED,43
+middlesex,Acton,4,President,,,SCATTERED,52
+middlesex,Acton,5,President,,,SCATTERED,32
+middlesex,Acton,6,President,,,SCATTERED,41
+middlesex,Acton,1,US House,3,,BLANK,73
+middlesex,Acton,2,US House,3,,BLANK,60
+middlesex,Acton,3,US House,3,,BLANK,55
+middlesex,Acton,4,US House,3,,BLANK,59
+middlesex,Acton,5,US House,3,,BLANK,55
+middlesex,Acton,6,US House,3,,BLANK,57
+middlesex,Acton,1,US House,3,Democratic,NICOLA S. TSONGAS,1472
+middlesex,Acton,2,US House,3,Democratic,NICOLA S. TSONGAS,1582
+middlesex,Acton,3,US House,3,Democratic,NICOLA S. TSONGAS,1636
+middlesex,Acton,4,US House,3,Democratic,NICOLA S. TSONGAS,1735
+middlesex,Acton,5,US House,3,Democratic,NICOLA S. TSONGAS,1648
+middlesex,Acton,6,US House,3,Democratic,NICOLA S. TSONGAS,1380
+middlesex,Acton,1,US House,3,Republican,ANN WOFFORD,537
+middlesex,Acton,2,US House,3,Republican,ANN WOFFORD,583
+middlesex,Acton,3,US House,3,Republican,ANN WOFFORD,541
+middlesex,Acton,4,US House,3,Republican,ANN WOFFORD,500
+middlesex,Acton,5,US House,3,Republican,ANN WOFFORD,462
+middlesex,Acton,6,US House,3,Republican,ANN WOFFORD,501
+middlesex,Acton,1,US House,3,,SCATTERED,2
+middlesex,Acton,2,US House,3,,SCATTERED,3
+middlesex,Acton,3,US House,3,,SCATTERED,3
+middlesex,Acton,4,US House,3,,SCATTERED,18
+middlesex,Acton,5,US House,3,,SCATTERED,2
+middlesex,Acton,6,US House,3,,SCATTERED,3
+middlesex,Acton,1,State Senate,,,BLANK,231
+middlesex,Acton,2,State Senate,,,BLANK,204
+middlesex,Acton,3,State Senate,,,BLANK,144
+middlesex,Acton,4,State Senate,,,BLANK,162
+middlesex,Acton,5,State Senate,,,BLANK,182
+middlesex,Acton,6,State Senate,,,BLANK,190
+middlesex,Acton,1,State Senate,,Democratic,JAMES B. ELDRIDGE,1337
+middlesex,Acton,2,State Senate,,Democratic,JAMES B. ELDRIDGE,1465
+middlesex,Acton,3,State Senate,,Democratic,JAMES B. ELDRIDGE,1565
+middlesex,Acton,4,State Senate,,Democratic,JAMES B. ELDRIDGE,1666
+middlesex,Acton,5,State Senate,,Democratic,JAMES B. ELDRIDGE,1517
+middlesex,Acton,6,State Senate,,Democratic,JAMES B. ELDRIDGE,1235
+middlesex,Acton,1,State Senate,,Republican,TED BUSIEK,443
+middlesex,Acton,2,State Senate,,Republican,TED BUSIEK,488
+middlesex,Acton,3,State Senate,,Republican,TED BUSIEK,427
+middlesex,Acton,4,State Senate,,Republican,TED BUSIEK,377
+middlesex,Acton,5,State Senate,,Republican,TED BUSIEK,373
+middlesex,Acton,6,State Senate,,Republican,TED BUSIEK,438
+middlesex,Acton,1,State Senate,,,TERRA FIREDRICHS,71
+middlesex,Acton,2,State Senate,,,TERRA FIREDRICHS,68
+middlesex,Acton,3,State Senate,,,TERRA FIREDRICHS,95
+middlesex,Acton,4,State Senate,,,TERRA FIREDRICHS,88
+middlesex,Acton,5,State Senate,,,TERRA FIREDRICHS,92
+middlesex,Acton,6,State Senate,,,TERRA FIREDRICHS,75
+middlesex,Acton,1,State Senate,,,SCATTERED,2
+middlesex,Acton,2,State Senate,,,SCATTERED,3
+middlesex,Acton,3,State Senate,,,SCATTERED,4
+middlesex,Acton,4,State Senate,,,SCATTERED,19
+middlesex,Acton,5,State Senate,,,SCATTERED,3
+middlesex,Acton,6,State Senate,,,SCATTERED,3
+middlesex,Acton,1,State House,14,,BLANK,121
+middlesex,Acton,2,State House,14,,BLANK,114
+middlesex,Acton,6,State House,14,,BLANK,102
+middlesex,Acton,1,State House,14,Democratic,CORY ATKINS,1250
+middlesex,Acton,2,State House,14,Democratic,CORY ATKINS,1326
+middlesex,Acton,6,State House,14,Democratic,CORY ATKINS,1182
+middlesex,Acton,1,State House,14,Republican,HELEN BRADY,616
+middlesex,Acton,2,State House,14,Republican,HELEN BRADY,693
+middlesex,Acton,6,State House,14,Republican,HELEN BRADY,584
+middlesex,Acton,1,State House,14,Green-Rainbow,DANIEL L. FACTOR,96
+middlesex,Acton,2,State House,14,Green-Rainbow,DANIEL L. FACTOR,90
+middlesex,Acton,6,State House,14,Green-Rainbow,DANIEL L. FACTOR,70
+middlesex,Acton,1,State House,14,,SCATTERED,1
+middlesex,Acton,2,State House,14,,SCATTERED,5
+middlesex,Acton,6,State House,14,,SCATTERED,3
+middlesex,Acton,3,State House,37,,BLANK,522
+middlesex,Acton,4,State House,37,,BLANK,471
+middlesex,Acton,5,State House,37,,BLANK,468
+middlesex,Acton,3,State House,37,Democratic,JENNIFER E. BENSON,1679
+middlesex,Acton,4,State House,37,Democratic,JENNIFER E. BENSON,1804
+middlesex,Acton,5,State House,37,Democratic,JENNIFER E. BENSON,1685
+middlesex,Acton,3,State House,37,,SCATTERED,34
+middlesex,Acton,4,State House,37,,SCATTERED,37
+middlesex,Acton,5,State House,37,,SCATTERED,14
