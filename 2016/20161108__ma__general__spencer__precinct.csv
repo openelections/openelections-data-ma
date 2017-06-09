@@ -1,416 +1,1 @@
-"","county","town","precinct","office","district","party","candidate","votes"
-"1","Worcester","Spencer","1","President",NA,"","Blanks",25
-"2","Worcester","Spencer","1","President",NA,"Democratic","Clinton and Kaine",593
-"3","Worcester","Spencer","1","President",NA,"Libertarian","Johnson and Weld",74
-"4","Worcester","Spencer","1","President",NA,"Green-Rainbow","Stein and Baraka",11
-"5","Worcester","Spencer","1","President",NA,"Republican","Trump and Pence",748
-"6","Worcester","Spencer","1","President",NA,"","McMullin and Johnson",0
-"7","Worcester","Spencer","1","President",NA,"","All Other Write Ins",17
-"8","Worcester","Spencer","2","President",NA,"","Blanks",22
-"9","Worcester","Spencer","2","President",NA,"Democratic","Clinton and Kaine",517
-"10","Worcester","Spencer","2","President",NA,"Libertarian","Johnson and Weld",72
-"11","Worcester","Spencer","2","President",NA,"Green-Rainbow","Stein and Baraka",16
-"12","Worcester","Spencer","2","President",NA,"Republican","Trump and Pence",670
-"13","Worcester","Spencer","2","President",NA,"","McMullin and Johnson",3
-"14","Worcester","Spencer","2","President",NA,"","All Other Write Ins",22
-"15","Worcester","Spencer","3","President",NA,"","Blanks",19
-"16","Worcester","Spencer","3","President",NA,"Democratic","Clinton and Kaine",542
-"17","Worcester","Spencer","3","President",NA,"Libertarian","Johnson and Weld",71
-"18","Worcester","Spencer","3","President",NA,"Green-Rainbow","Stein and Baraka",29
-"19","Worcester","Spencer","3","President",NA,"Republican","Trump and Pence",859
-"20","Worcester","Spencer","3","President",NA,"","McMullin and Johnson",3
-"21","Worcester","Spencer","3","President",NA,"","All Other Write Ins",32
-"22","Worcester","Spencer","4","President",NA,"","Blanks",16
-"23","Worcester","Spencer","4","President",NA,"Democratic","Clinton and Kaine",613
-"24","Worcester","Spencer","4","President",NA,"Libertarian","Johnson and Weld",79
-"25","Worcester","Spencer","4","President",NA,"Green-Rainbow","Stein and Baraka",27
-"26","Worcester","Spencer","4","President",NA,"Republican","Trump and Pence",768
-"27","Worcester","Spencer","4","President",NA,"","McMullin and Johnson",4
-"28","Worcester","Spencer","4","President",NA,"","All Other Write Ins",23
-"29","Worcester","Spencer","Total","President",NA,"","Blanks",82
-"30","Worcester","Spencer","Total","President",NA,"Democratic","Clinton and Kaine",2265
-"31","Worcester","Spencer","Total","President",NA,"Libertarian","Johnson and Weld",296
-"32","Worcester","Spencer","Total","President",NA,"Green-Rainbow","Stein and Baraka",83
-"33","Worcester","Spencer","Total","President",NA,"Republican","Trump and Pence",3045
-"34","Worcester","Spencer","Total","President",NA,"","McMullin and Johnson",10
-"35","Worcester","Spencer","Total","President",NA,"","All Other Write Ins",94
-"36","Worcester","Spencer","1","U.S. House","2","","Blanks",416
-"37","Worcester","Spencer","1","U.S. House","2","Democratic","James P. McGovern",1038
-"38","Worcester","Spencer","1","U.S. House","2","","Shane King",0
-"39","Worcester","Spencer","1","U.S. House","2","","Jim Polito",0
-"40","Worcester","Spencer","1","U.S. House","2","","Brian Hackett",0
-"41","Worcester","Spencer","1","U.S. House","2","","Wayne Gruden",0
-"42","Worcester","Spencer","1","U.S. House","2","","Pete Yanis",0
-"43","Worcester","Spencer","1","U.S. House","2","","Ed Small",0
-"44","Worcester","Spencer","1","U.S. House","2","","Norm Grisler",0
-"45","Worcester","Spencer","1","U.S. House","2","","George Clinton",0
-"46","Worcester","Spencer","1","U.S. House","2","","Seth Murray",0
-"47","Worcester","Spencer","1","U.S. House","2","","Tony Bove",0
-"48","Worcester","Spencer","1","U.S. House","2","","Craig Bertt",0
-"49","Worcester","Spencer","1","U.S. House","2","","Bo Fritze",0
-"50","Worcester","Spencer","1","U.S. House","2","","Michael Hackett",0
-"51","Worcester","Spencer","1","U.S. House","2","","Dave Corville",0
-"52","Worcester","Spencer","1","U.S. House","2","","Tom Brady",1
-"53","Worcester","Spencer","1","U.S. House","2","","Lewis Evangeltis",1
-"54","Worcester","Spencer","1","U.S. House","2","","Jeremy Levy",0
-"55","Worcester","Spencer","1","U.S. House","2","","Donald Trump",1
-"56","Worcester","Spencer","1","U.S. House","2","","Donna Ryel",0
-"57","Worcester","Spencer","1","U.S. House","2","","John Cabana",0
-"58","Worcester","Spencer","1","U.S. House","2","","Jordan Levy",0
-"59","Worcester","Spencer","1","U.S. House","2","","Pat Carrol",0
-"60","Worcester","Spencer","1","U.S. House","2","","Scott Bauer",0
-"61","Worcester","Spencer","1","U.S. House","2","","Terry Dunn",0
-"62","Worcester","Spencer","1","U.S. House","2","","Bob Grogan",0
-"63","Worcester","Spencer","1","U.S. House","2","","Don Berthiaume",0
-"64","Worcester","Spencer","1","U.S. House","2","","Ryan Faitman",0
-"65","Worcester","Spencer","1","U.S. House","2","","Steve Griffin",0
-"66","Worcester","Spencer","1","U.S. House","2","","Steve Houel",0
-"67","Worcester","Spencer","1","U.S. House","2","","Steve Dayntis",0
-"68","Worcester","Spencer","1","U.S. House","2","","Jennifer Ferguson",0
-"69","Worcester","Spencer","1","U.S. House","2","","Charles Cheput",0
-"70","Worcester","Spencer","1","U.S. House","2","","Allan Hoyt",2
-"71","Worcester","Spencer","1","U.S. House","2","","Nancy Jackson",1
-"72","Worcester","Spencer","1","U.S. House","2","","Chris Comeau",1
-"73","Worcester","Spencer","1","U.S. House","2","","Jason Monette",1
-"74","Worcester","Spencer","1","U.S. House","2","","Peter Durant",0
-"75","Worcester","Spencer","1","U.S. House","2","","Emma Moroney",0
-"76","Worcester","Spencer","1","U.S. House","2","","Michael Dukakis",0
-"77","Worcester","Spencer","1","U.S. House","2","","Randi Larose",0
-"78","Worcester","Spencer","1","U.S. House","2","","Chris Chambers",0
-"79","Worcester","Spencer","1","U.S. House","2","","Ted Nugent",0
-"80","Worcester","Spencer","2","U.S. House","2","","Blanks",358
-"81","Worcester","Spencer","2","U.S. House","2","Democratic","James P. McGovern",956
-"82","Worcester","Spencer","2","U.S. House","2","","Shane King",0
-"83","Worcester","Spencer","2","U.S. House","2","","Jim Polito",0
-"84","Worcester","Spencer","2","U.S. House","2","","Brian Hackett",0
-"85","Worcester","Spencer","2","U.S. House","2","","Wayne Gruden",0
-"86","Worcester","Spencer","2","U.S. House","2","","Pete Yanis",0
-"87","Worcester","Spencer","2","U.S. House","2","","Ed Small",0
-"88","Worcester","Spencer","2","U.S. House","2","","Norm Grisler",0
-"89","Worcester","Spencer","2","U.S. House","2","","George Clinton",0
-"90","Worcester","Spencer","2","U.S. House","2","","Seth Murray",0
-"91","Worcester","Spencer","2","U.S. House","2","","Tony Bove",0
-"92","Worcester","Spencer","2","U.S. House","2","","Craig Bertt",0
-"93","Worcester","Spencer","2","U.S. House","2","","Bo Fritze",0
-"94","Worcester","Spencer","2","U.S. House","2","","Michael Hackett",0
-"95","Worcester","Spencer","2","U.S. House","2","","Dave Corville",0
-"96","Worcester","Spencer","2","U.S. House","2","","Tom Brady",0
-"97","Worcester","Spencer","2","U.S. House","2","","Lewis Evangeltis",0
-"98","Worcester","Spencer","2","U.S. House","2","","Jeremy Levy",0
-"99","Worcester","Spencer","2","U.S. House","2","","Donald Trump",0
-"100","Worcester","Spencer","2","U.S. House","2","","Donna Ryel",0
-"101","Worcester","Spencer","2","U.S. House","2","","John Cabana",0
-"102","Worcester","Spencer","2","U.S. House","2","","Jordan Levy",2
-"103","Worcester","Spencer","2","U.S. House","2","","Pat Carrol",1
-"104","Worcester","Spencer","2","U.S. House","2","","Scott Bauer",1
-"105","Worcester","Spencer","2","U.S. House","2","","Terry Dunn",1
-"106","Worcester","Spencer","2","U.S. House","2","","Bob Grogan",1
-"107","Worcester","Spencer","2","U.S. House","2","","Don Berthiaume",1
-"108","Worcester","Spencer","2","U.S. House","2","","Ryan Faitman",0
-"109","Worcester","Spencer","2","U.S. House","2","","Steve Griffin",0
-"110","Worcester","Spencer","2","U.S. House","2","","Steve Houel",0
-"111","Worcester","Spencer","2","U.S. House","2","","Steve Dayntis",0
-"112","Worcester","Spencer","2","U.S. House","2","","Jennifer Ferguson",0
-"113","Worcester","Spencer","2","U.S. House","2","","Charles Cheput",1
-"114","Worcester","Spencer","2","U.S. House","2","","Allan Hoyt",0
-"115","Worcester","Spencer","2","U.S. House","2","","Nancy Jackson",0
-"116","Worcester","Spencer","2","U.S. House","2","","Chris Comeau",0
-"117","Worcester","Spencer","2","U.S. House","2","","Jason Monette",0
-"118","Worcester","Spencer","2","U.S. House","2","","Peter Durant",1
-"119","Worcester","Spencer","2","U.S. House","2","","Emma Moroney",1
-"120","Worcester","Spencer","2","U.S. House","2","","Michael Dukakis",1
-"121","Worcester","Spencer","2","U.S. House","2","","Randi Larose",1
-"122","Worcester","Spencer","2","U.S. House","2","","Chris Chambers",1
-"123","Worcester","Spencer","2","U.S. House","2","","Ted Nugent",1
-"124","Worcester","Spencer","3","U.S. House","2","","Blanks",421
-"125","Worcester","Spencer","3","U.S. House","2","Democratic","James P. McGovern",1112
-"126","Worcester","Spencer","3","U.S. House","2","","Shane King",1
-"127","Worcester","Spencer","3","U.S. House","2","","Jim Polito",1
-"128","Worcester","Spencer","3","U.S. House","2","","Brian Hackett",1
-"129","Worcester","Spencer","3","U.S. House","2","","Wayne Gruden",1
-"130","Worcester","Spencer","3","U.S. House","2","","Pete Yanis",1
-"131","Worcester","Spencer","3","U.S. House","2","","Ed Small",1
-"132","Worcester","Spencer","3","U.S. House","2","","Norm Grisler",2
-"133","Worcester","Spencer","3","U.S. House","2","","George Clinton",1
-"134","Worcester","Spencer","3","U.S. House","2","","Seth Murray",1
-"135","Worcester","Spencer","3","U.S. House","2","","Tony Bove",1
-"136","Worcester","Spencer","3","U.S. House","2","","Craig Bertt",1
-"137","Worcester","Spencer","3","U.S. House","2","","Bo Fritze",1
-"138","Worcester","Spencer","3","U.S. House","2","","Michael Hackett",1
-"139","Worcester","Spencer","3","U.S. House","2","","Dave Corville",1
-"140","Worcester","Spencer","3","U.S. House","2","","Tom Brady",2
-"141","Worcester","Spencer","3","U.S. House","2","","Lewis Evangeltis",1
-"142","Worcester","Spencer","3","U.S. House","2","","Jeremy Levy",1
-"143","Worcester","Spencer","3","U.S. House","2","","Donald Trump",1
-"144","Worcester","Spencer","3","U.S. House","2","","Donna Ryel",1
-"145","Worcester","Spencer","3","U.S. House","2","","John Cabana",1
-"146","Worcester","Spencer","3","U.S. House","2","","Jordan Levy",0
-"147","Worcester","Spencer","3","U.S. House","2","","Pat Carrol",0
-"148","Worcester","Spencer","3","U.S. House","2","","Scott Bauer",0
-"149","Worcester","Spencer","3","U.S. House","2","","Terry Dunn",0
-"150","Worcester","Spencer","3","U.S. House","2","","Bob Grogan",0
-"151","Worcester","Spencer","3","U.S. House","2","","Don Berthiaume",0
-"152","Worcester","Spencer","3","U.S. House","2","","Ryan Faitman",0
-"153","Worcester","Spencer","3","U.S. House","2","","Steve Griffin",0
-"154","Worcester","Spencer","3","U.S. House","2","","Steve Houel",0
-"155","Worcester","Spencer","3","U.S. House","2","","Steve Dayntis",0
-"156","Worcester","Spencer","3","U.S. House","2","","Jennifer Ferguson",0
-"157","Worcester","Spencer","3","U.S. House","2","","Charles Cheput",0
-"158","Worcester","Spencer","3","U.S. House","2","","Allan Hoyt",0
-"159","Worcester","Spencer","3","U.S. House","2","","Nancy Jackson",0
-"160","Worcester","Spencer","3","U.S. House","2","","Chris Comeau",0
-"161","Worcester","Spencer","3","U.S. House","2","","Jason Monette",0
-"162","Worcester","Spencer","3","U.S. House","2","","Peter Durant",0
-"163","Worcester","Spencer","3","U.S. House","2","","Emma Moroney",0
-"164","Worcester","Spencer","3","U.S. House","2","","Michael Dukakis",0
-"165","Worcester","Spencer","3","U.S. House","2","","Randi Larose",0
-"166","Worcester","Spencer","3","U.S. House","2","","Chris Chambers",0
-"167","Worcester","Spencer","3","U.S. House","2","","Ted Nugent",0
-"168","Worcester","Spencer","4","U.S. House","2","","Blanks",435
-"169","Worcester","Spencer","4","U.S. House","2","Democratic","James P. McGovern",1090
-"170","Worcester","Spencer","4","U.S. House","2","","Shane King",0
-"171","Worcester","Spencer","4","U.S. House","2","","Jim Polito",0
-"172","Worcester","Spencer","4","U.S. House","2","","Brian Hackett",0
-"173","Worcester","Spencer","4","U.S. House","2","","Wayne Gruden",0
-"174","Worcester","Spencer","4","U.S. House","2","","Pete Yanis",0
-"175","Worcester","Spencer","4","U.S. House","2","","Ed Small",0
-"176","Worcester","Spencer","4","U.S. House","2","","Norm Grisler",0
-"177","Worcester","Spencer","4","U.S. House","2","","George Clinton",0
-"178","Worcester","Spencer","4","U.S. House","2","","Seth Murray",0
-"179","Worcester","Spencer","4","U.S. House","2","","Tony Bove",0
-"180","Worcester","Spencer","4","U.S. House","2","","Craig Bertt",0
-"181","Worcester","Spencer","4","U.S. House","2","","Bo Fritze",0
-"182","Worcester","Spencer","4","U.S. House","2","","Michael Hackett",0
-"183","Worcester","Spencer","4","U.S. House","2","","Dave Corville",0
-"184","Worcester","Spencer","4","U.S. House","2","","Tom Brady",0
-"185","Worcester","Spencer","4","U.S. House","2","","Lewis Evangeltis",0
-"186","Worcester","Spencer","4","U.S. House","2","","Jeremy Levy",0
-"187","Worcester","Spencer","4","U.S. House","2","","Donald Trump",0
-"188","Worcester","Spencer","4","U.S. House","2","","Donna Ryel",0
-"189","Worcester","Spencer","4","U.S. House","2","","John Cabana",0
-"190","Worcester","Spencer","4","U.S. House","2","","Jordan Levy",0
-"191","Worcester","Spencer","4","U.S. House","2","","Pat Carrol",0
-"192","Worcester","Spencer","4","U.S. House","2","","Scott Bauer",0
-"193","Worcester","Spencer","4","U.S. House","2","","Terry Dunn",0
-"194","Worcester","Spencer","4","U.S. House","2","","Bob Grogan",0
-"195","Worcester","Spencer","4","U.S. House","2","","Don Berthiaume",0
-"196","Worcester","Spencer","4","U.S. House","2","","Ryan Faitman",1
-"197","Worcester","Spencer","4","U.S. House","2","","Steve Griffin",1
-"198","Worcester","Spencer","4","U.S. House","2","","Steve Houel",1
-"199","Worcester","Spencer","4","U.S. House","2","","Steve Dayntis",1
-"200","Worcester","Spencer","4","U.S. House","2","","Jennifer Ferguson",1
-"201","Worcester","Spencer","4","U.S. House","2","","Charles Cheput",0
-"202","Worcester","Spencer","4","U.S. House","2","","Allan Hoyt",0
-"203","Worcester","Spencer","4","U.S. House","2","","Nancy Jackson",0
-"204","Worcester","Spencer","4","U.S. House","2","","Chris Comeau",0
-"205","Worcester","Spencer","4","U.S. House","2","","Jason Monette",0
-"206","Worcester","Spencer","4","U.S. House","2","","Peter Durant",0
-"207","Worcester","Spencer","4","U.S. House","2","","Emma Moroney",0
-"208","Worcester","Spencer","4","U.S. House","2","","Michael Dukakis",0
-"209","Worcester","Spencer","4","U.S. House","2","","Randi Larose",0
-"210","Worcester","Spencer","4","U.S. House","2","","Chris Chambers",0
-"211","Worcester","Spencer","4","U.S. House","2","","Ted Nugent",0
-"212","Worcester","Spencer","Total","U.S. House","2","","Blanks",1630
-"213","Worcester","Spencer","Total","U.S. House","2","Democratic","James P. McGovern",4196
-"214","Worcester","Spencer","Total","U.S. House","2","","Shane King",1
-"215","Worcester","Spencer","Total","U.S. House","2","","Jim Polito",1
-"216","Worcester","Spencer","Total","U.S. House","2","","Brian Hackett",1
-"217","Worcester","Spencer","Total","U.S. House","2","","Wayne Gruden",1
-"218","Worcester","Spencer","Total","U.S. House","2","","Pete Yanis",1
-"219","Worcester","Spencer","Total","U.S. House","2","","Ed Small",1
-"220","Worcester","Spencer","Total","U.S. House","2","","Norm Grisler",2
-"221","Worcester","Spencer","Total","U.S. House","2","","George Clinton",1
-"222","Worcester","Spencer","Total","U.S. House","2","","Seth Murray",1
-"223","Worcester","Spencer","Total","U.S. House","2","","Tony Bove",1
-"224","Worcester","Spencer","Total","U.S. House","2","","Craig Bertt",1
-"225","Worcester","Spencer","Total","U.S. House","2","","Bo Fritze",1
-"226","Worcester","Spencer","Total","U.S. House","2","","Michael Hackett",1
-"227","Worcester","Spencer","Total","U.S. House","2","","Dave Corville",1
-"228","Worcester","Spencer","Total","U.S. House","2","","Tom Brady",3
-"229","Worcester","Spencer","Total","U.S. House","2","","Lewis Evangeltis",2
-"230","Worcester","Spencer","Total","U.S. House","2","","Jeremy Levy",1
-"231","Worcester","Spencer","Total","U.S. House","2","","Donald Trump",2
-"232","Worcester","Spencer","Total","U.S. House","2","","Donna Ryel",1
-"233","Worcester","Spencer","Total","U.S. House","2","","John Cabana",1
-"234","Worcester","Spencer","Total","U.S. House","2","","Jordan Levy",2
-"235","Worcester","Spencer","Total","U.S. House","2","","Pat Carrol",1
-"236","Worcester","Spencer","Total","U.S. House","2","","Scott Bauer",1
-"237","Worcester","Spencer","Total","U.S. House","2","","Terry Dunn",1
-"238","Worcester","Spencer","Total","U.S. House","2","","Bob Grogan",1
-"239","Worcester","Spencer","Total","U.S. House","2","","Don Berthiaume",1
-"240","Worcester","Spencer","Total","U.S. House","2","","Ryan Faitman",1
-"241","Worcester","Spencer","Total","U.S. House","2","","Steve Griffin",1
-"242","Worcester","Spencer","Total","U.S. House","2","","Steve Houel",1
-"243","Worcester","Spencer","Total","U.S. House","2","","Steve Dayntis",1
-"244","Worcester","Spencer","Total","U.S. House","2","","Jennifer Ferguson",1
-"245","Worcester","Spencer","Total","U.S. House","2","","Charles Cheput",1
-"246","Worcester","Spencer","Total","U.S. House","2","","Allan Hoyt",2
-"247","Worcester","Spencer","Total","U.S. House","2","","Nancy Jackson",1
-"248","Worcester","Spencer","Total","U.S. House","2","","Chris Comeau",1
-"249","Worcester","Spencer","Total","U.S. House","2","","Jason Monette",1
-"250","Worcester","Spencer","Total","U.S. House","2","","Peter Durant",1
-"251","Worcester","Spencer","Total","U.S. House","2","","Emma Moroney",1
-"252","Worcester","Spencer","Total","U.S. House","2","","Michael Dukakis",1
-"253","Worcester","Spencer","Total","U.S. House","2","","Randi Larose",1
-"254","Worcester","Spencer","Total","U.S. House","2","","Chris Chambers",1
-"255","Worcester","Spencer","Total","U.S. House","2","","Ted Nugent",1
-"256","Worcester","Spencer","1","Councillor","7","","Blanks",146
-"257","Worcester","Spencer","1","Councillor","7","Republican","Jennie L. Caissie",862
-"258","Worcester","Spencer","1","Councillor","7","Democratic","Matthew CJ Vance",459
-"259","Worcester","Spencer","1","Councillor","7","","Edward Cabana",0
-"260","Worcester","Spencer","1","Councillor","7","","Frank Dux",1
-"261","Worcester","Spencer","2","Councillor","7","","Blanks",127
-"262","Worcester","Spencer","2","Councillor","7","Republican","Jennie L. Caissie",790
-"263","Worcester","Spencer","2","Councillor","7","Democratic","Matthew CJ Vance",405
-"264","Worcester","Spencer","2","Councillor","7","","Edward Cabana",0
-"265","Worcester","Spencer","2","Councillor","7","","Frank Dux",0
-"266","Worcester","Spencer","3","Councillor","7","","Blanks",163
-"267","Worcester","Spencer","3","Councillor","7","Republican","Jennie L. Caissie",903
-"268","Worcester","Spencer","3","Councillor","7","Democratic","Matthew CJ Vance",488
-"269","Worcester","Spencer","3","Councillor","7","","Edward Cabana",1
-"270","Worcester","Spencer","3","Councillor","7","","Frank Dux",0
-"271","Worcester","Spencer","4","Councillor","7","","Blanks",163
-"272","Worcester","Spencer","4","Councillor","7","Republican","Jennie L. Caissie",886
-"273","Worcester","Spencer","4","Councillor","7","Democratic","Matthew CJ Vance",481
-"274","Worcester","Spencer","4","Councillor","7","","Edward Cabana",0
-"275","Worcester","Spencer","4","Councillor","7","","Frank Dux",0
-"276","Worcester","Spencer","Total","Councillor","7","","Blanks",599
-"277","Worcester","Spencer","Total","Councillor","7","Republican","Jennie L. Caissie",3441
-"278","Worcester","Spencer","Total","Councillor","7","Democratic","Matthew CJ Vance",1833
-"279","Worcester","Spencer","Total","Councillor","7","","Edward Cabana",1
-"280","Worcester","Spencer","Total","Councillor","7","","Frank Dux",1
-"281","Worcester","Spencer","1","State Senate","Worcester, Hampden, Hampshire and Middlesex","","Blanks",91
-"282","Worcester","Spencer","1","State Senate","Worcester, Hampden, Hampshire and Middlesex","Democratic","Anne M. Gobi",884
-"283","Worcester","Spencer","1","State Senate","Worcester, Hampden, Hampshire and Middlesex","Republican","James P. Ehrhard",493
-"284","Worcester","Spencer","2","State Senate","Worcester, Hampden, Hampshire and Middlesex","","Blanks",86
-"285","Worcester","Spencer","2","State Senate","Worcester, Hampden, Hampshire and Middlesex","Democratic","Anne M. Gobi",796
-"286","Worcester","Spencer","2","State Senate","Worcester, Hampden, Hampshire and Middlesex","Republican","James P. Ehrhard",440
-"287","Worcester","Spencer","3","State Senate","Worcester, Hampden, Hampshire and Middlesex","","Blanks",89
-"288","Worcester","Spencer","3","State Senate","Worcester, Hampden, Hampshire and Middlesex","Democratic","Anne M. Gobi",894
-"289","Worcester","Spencer","3","State Senate","Worcester, Hampden, Hampshire and Middlesex","Republican","James P. Ehrhard",572
-"290","Worcester","Spencer","4","State Senate","Worcester, Hampden, Hampshire and Middlesex","","Blanks",86
-"291","Worcester","Spencer","4","State Senate","Worcester, Hampden, Hampshire and Middlesex","Democratic","Anne M. Gobi",963
-"292","Worcester","Spencer","4","State Senate","Worcester, Hampden, Hampshire and Middlesex","Republican","James P. Ehrhard",481
-"293","Worcester","Spencer","Total","State Senate","Worcester, Hampden, Hampshire and Middlesex","","Blanks",352
-"294","Worcester","Spencer","Total","State Senate","Worcester, Hampden, Hampshire and Middlesex","Democratic","Anne M. Gobi",3537
-"295","Worcester","Spencer","Total","State Senate","Worcester, Hampden, Hampshire and Middlesex","Republican","James P. Ehrhard",1986
-"296","Worcester","Spencer","1","State House","5th Worcester","","Blanks",0
-"297","Worcester","Spencer","1","State House","6th Worcester","","Blanks",315
-"298","Worcester","Spencer","1","State House","6th Worcester","Republican","Peter J. Durant",1145
-"299","Worcester","Spencer","1","State House","5th Worcester","Republican","Donald R. Berthiaume, Jr.",0
-"300","Worcester","Spencer","1","State House","5th Worcester","","Edward Cabana",0
-"301","Worcester","Spencer","1","State House","5th Worcester","","Jeff Jones",0
-"302","Worcester","Spencer","1","State House","5th Worcester","","Patrick Farmer",0
-"303","Worcester","Spencer","1","State House","5th Worcester","","Craig Burtt",0
-"304","Worcester","Spencer","1","State House","5th Worcester","","Ed Thibeault",0
-"305","Worcester","Spencer","1","State House","5th Worcester","","William Shemeth",0
-"306","Worcester","Spencer","1","State House","6th Worcester","","William Shemeth",1
-"307","Worcester","Spencer","1","State House","5th Worcester","","Karl Ronson",0
-"308","Worcester","Spencer","1","State House","5th Worcester","","Jennifer Gaucher",0
-"309","Worcester","Spencer","1","State House","6th Worcester","","Clyde Anderson",1
-"310","Worcester","Spencer","1","State House","6th Worcester","","Peter J. Durant",1
-"311","Worcester","Spencer","1","State House","6th Worcester","","Tom Brady",1
-"312","Worcester","Spencer","1","State House","6th Worcester","","Simon Peter",1
-"313","Worcester","Spencer","1","State House","6th Worcester","","Ralph Sargent",1
-"314","Worcester","Spencer","1","State House","6th Worcester","","James McGovern",1
-"315","Worcester","Spencer","1","State House","6th Worcester","","Robert Ferreira",1
-"316","Worcester","Spencer","2","State House","5th Worcester","","Blanks",263
-"317","Worcester","Spencer","2","State House","6th Worcester","","Blanks",0
-"318","Worcester","Spencer","2","State House","6th Worcester","Republican","Peter J. Durant",0
-"319","Worcester","Spencer","2","State House","5th Worcester","Republican","Donald R. Berthiaume, Jr.",1056
-"320","Worcester","Spencer","2","State House","5th Worcester","","Edward Cabana",0
-"321","Worcester","Spencer","2","State House","5th Worcester","","Jeff Jones",0
-"322","Worcester","Spencer","2","State House","5th Worcester","","Patrick Farmer",0
-"323","Worcester","Spencer","2","State House","5th Worcester","","Craig Burtt",0
-"324","Worcester","Spencer","2","State House","5th Worcester","","Ed Thibeault",0
-"325","Worcester","Spencer","2","State House","5th Worcester","","William Shemeth",1
-"326","Worcester","Spencer","2","State House","6th Worcester","","William Shemeth",0
-"327","Worcester","Spencer","2","State House","5th Worcester","","Karl Ronson",1
-"328","Worcester","Spencer","2","State House","5th Worcester","","Jennifer Gaucher",1
-"329","Worcester","Spencer","2","State House","6th Worcester","","Clyde Anderson",0
-"330","Worcester","Spencer","2","State House","6th Worcester","","Peter J. Durant",0
-"331","Worcester","Spencer","2","State House","6th Worcester","","Tom Brady",0
-"332","Worcester","Spencer","2","State House","6th Worcester","","Simon Peter",0
-"333","Worcester","Spencer","2","State House","6th Worcester","","Ralph Sargent",0
-"334","Worcester","Spencer","2","State House","6th Worcester","","James McGovern",0
-"335","Worcester","Spencer","2","State House","6th Worcester","","Robert Ferreira",0
-"336","Worcester","Spencer","3","State House","5th Worcester","","Blanks",323
-"337","Worcester","Spencer","3","State House","6th Worcester","","Blanks",0
-"338","Worcester","Spencer","3","State House","6th Worcester","Republican","Peter J. Durant",0
-"339","Worcester","Spencer","3","State House","5th Worcester","Republican","Donald R. Berthiaume, Jr.",1226
-"340","Worcester","Spencer","3","State House","5th Worcester","","Edward Cabana",1
-"341","Worcester","Spencer","3","State House","5th Worcester","","Jeff Jones",1
-"342","Worcester","Spencer","3","State House","5th Worcester","","Patrick Farmer",2
-"343","Worcester","Spencer","3","State House","5th Worcester","","Craig Burtt",1
-"344","Worcester","Spencer","3","State House","5th Worcester","","Ed Thibeault",1
-"345","Worcester","Spencer","3","State House","5th Worcester","","William Shemeth",0
-"346","Worcester","Spencer","3","State House","6th Worcester","","William Shemeth",0
-"347","Worcester","Spencer","3","State House","5th Worcester","","Karl Ronson",0
-"348","Worcester","Spencer","3","State House","5th Worcester","","Jennifer Gaucher",0
-"349","Worcester","Spencer","3","State House","6th Worcester","","Clyde Anderson",0
-"350","Worcester","Spencer","3","State House","6th Worcester","","Peter J. Durant",0
-"351","Worcester","Spencer","3","State House","6th Worcester","","Tom Brady",0
-"352","Worcester","Spencer","3","State House","6th Worcester","","Simon Peter",0
-"353","Worcester","Spencer","3","State House","6th Worcester","","Ralph Sargent",0
-"354","Worcester","Spencer","3","State House","6th Worcester","","James McGovern",0
-"355","Worcester","Spencer","3","State House","6th Worcester","","Robert Ferreira",0
-"356","Worcester","Spencer","4","State House","5th Worcester","","Blanks",0
-"357","Worcester","Spencer","4","State House","6th Worcester","","Blanks",0
-"358","Worcester","Spencer","4","State House","6th Worcester","Republican","Peter J. Durant",0
-"359","Worcester","Spencer","4","State House","5th Worcester","Republican","Donald R. Berthiaume, Jr.",0
-"360","Worcester","Spencer","4","State House","5th Worcester","","Edward Cabana",0
-"361","Worcester","Spencer","4","State House","5th Worcester","","Jeff Jones",0
-"362","Worcester","Spencer","4","State House","5th Worcester","","Patrick Farmer",0
-"363","Worcester","Spencer","4","State House","5th Worcester","","Craig Burtt",0
-"364","Worcester","Spencer","4","State House","5th Worcester","","Ed Thibeault",0
-"365","Worcester","Spencer","4","State House","5th Worcester","","William Shemeth",0
-"366","Worcester","Spencer","4","State House","6th Worcester","","William Shemeth",0
-"367","Worcester","Spencer","4","State House","5th Worcester","","Karl Ronson",0
-"368","Worcester","Spencer","4","State House","5th Worcester","","Jennifer Gaucher",0
-"369","Worcester","Spencer","4","State House","6th Worcester","","Clyde Anderson",0
-"370","Worcester","Spencer","4","State House","6th Worcester","","Peter J. Durant",0
-"371","Worcester","Spencer","4","State House","6th Worcester","","Tom Brady",0
-"372","Worcester","Spencer","4","State House","6th Worcester","","Simon Peter",0
-"373","Worcester","Spencer","4","State House","6th Worcester","","Ralph Sargent",0
-"374","Worcester","Spencer","4","State House","6th Worcester","","James McGovern",0
-"375","Worcester","Spencer","4","State House","6th Worcester","","Robert Ferreira",0
-"376","Worcester","Spencer","5","State House","5th Worcester","","Blanks",337
-"377","Worcester","Spencer","5","State House","6th Worcester","","Blanks",0
-"378","Worcester","Spencer","5","State House","6th Worcester","Republican","Peter J. Durant",0
-"379","Worcester","Spencer","5","State House","5th Worcester","Republican","Donald R. Berthiaume, Jr.",1193
-"380","Worcester","Spencer","5","State House","5th Worcester","","Edward Cabana",0
-"381","Worcester","Spencer","5","State House","5th Worcester","","Jeff Jones",0
-"382","Worcester","Spencer","5","State House","5th Worcester","","Patrick Farmer",0
-"383","Worcester","Spencer","5","State House","5th Worcester","","Craig Burtt",0
-"384","Worcester","Spencer","5","State House","5th Worcester","","Ed Thibeault",0
-"385","Worcester","Spencer","5","State House","5th Worcester","","William Shemeth",0
-"386","Worcester","Spencer","5","State House","6th Worcester","","William Shemeth",0
-"387","Worcester","Spencer","5","State House","5th Worcester","","Karl Ronson",0
-"388","Worcester","Spencer","5","State House","5th Worcester","","Jennifer Gaucher",0
-"389","Worcester","Spencer","5","State House","6th Worcester","","Clyde Anderson",0
-"390","Worcester","Spencer","5","State House","6th Worcester","","Peter J. Durant",0
-"391","Worcester","Spencer","5","State House","6th Worcester","","Tom Brady",0
-"392","Worcester","Spencer","5","State House","6th Worcester","","Simon Peter",0
-"393","Worcester","Spencer","5","State House","6th Worcester","","Ralph Sargent",0
-"394","Worcester","Spencer","5","State House","6th Worcester","","James McGovern",0
-"395","Worcester","Spencer","5","State House","6th Worcester","","Robert Ferreira",0
-"396","Worcester","Spencer","Total","State House","5th Worcester","","Blanks",923
-"397","Worcester","Spencer","Total","State House","6th Worcester","","Blanks",315
-"398","Worcester","Spencer","Total","State House","6th Worcester","Republican","Peter J. Durant",1145
-"399","Worcester","Spencer","Total","State House","5th Worcester","Republican","Donald R. Berthiaume, Jr.",3475
-"400","Worcester","Spencer","Total","State House","5th Worcester","","Edward Cabana",1
-"401","Worcester","Spencer","Total","State House","5th Worcester","","Jeff Jones",1
-"402","Worcester","Spencer","Total","State House","5th Worcester","","Patrick Farmer",2
-"403","Worcester","Spencer","Total","State House","5th Worcester","","Craig Burtt",1
-"404","Worcester","Spencer","Total","State House","5th Worcester","","Ed Thibeault",1
-"405","Worcester","Spencer","Total","State House","5th Worcester","","William Shemeth",1
-"406","Worcester","Spencer","Total","State House","6th Worcester","","William Shemeth",1
-"407","Worcester","Spencer","Total","State House","5th Worcester","","Karl Ronson",1
-"408","Worcester","Spencer","Total","State House","5th Worcester","","Jennifer Gaucher",1
-"409","Worcester","Spencer","Total","State House","6th Worcester","","Clyde Anderson",1
-"410","Worcester","Spencer","Total","State House","6th Worcester","","Peter J. Durant",1
-"411","Worcester","Spencer","Total","State House","6th Worcester","","Tom Brady",1
-"412","Worcester","Spencer","Total","State House","6th Worcester","","Simon Peter",1
-"413","Worcester","Spencer","Total","State House","6th Worcester","","Ralph Sargent",1
-"414","Worcester","Spencer","Total","State House","6th Worcester","","James McGovern",1
-"415","Worcester","Spencer","Total","State House","6th Worcester","","Robert Ferreira",1
+county,town,precinct,office,district,party,candidate,votesWorcester,Spencer,1,President,NA,,Blanks,25Worcester,Spencer,1,President,NA,Democratic,Clinton and Kaine,593Worcester,Spencer,1,President,NA,Libertarian,Johnson and Weld,74Worcester,Spencer,1,President,NA,Green-Rainbow,Stein and Baraka,11Worcester,Spencer,1,President,NA,Republican,Trump and Pence,748Worcester,Spencer,1,President,NA,,McMullin and Johnson,0Worcester,Spencer,1,President,NA,,All Other Write Ins,17Worcester,Spencer,2,President,NA,,Blanks,22Worcester,Spencer,2,President,NA,Democratic,Clinton and Kaine,517Worcester,Spencer,2,President,NA,Libertarian,Johnson and Weld,72Worcester,Spencer,2,President,NA,Green-Rainbow,Stein and Baraka,16Worcester,Spencer,2,President,NA,Republican,Trump and Pence,670Worcester,Spencer,2,President,NA,,McMullin and Johnson,3Worcester,Spencer,2,President,NA,,All Other Write Ins,22Worcester,Spencer,3,President,NA,,Blanks,19Worcester,Spencer,3,President,NA,Democratic,Clinton and Kaine,542Worcester,Spencer,3,President,NA,Libertarian,Johnson and Weld,71Worcester,Spencer,3,President,NA,Green-Rainbow,Stein and Baraka,29Worcester,Spencer,3,President,NA,Republican,Trump and Pence,859Worcester,Spencer,3,President,NA,,McMullin and Johnson,3Worcester,Spencer,3,President,NA,,All Other Write Ins,32Worcester,Spencer,4,President,NA,,Blanks,16Worcester,Spencer,4,President,NA,Democratic,Clinton and Kaine,613Worcester,Spencer,4,President,NA,Libertarian,Johnson and Weld,79Worcester,Spencer,4,President,NA,Green-Rainbow,Stein and Baraka,27Worcester,Spencer,4,President,NA,Republican,Trump and Pence,768Worcester,Spencer,4,President,NA,,McMullin and Johnson,4Worcester,Spencer,4,President,NA,,All Other Write Ins,23Worcester,Spencer,Total,President,NA,,Blanks,82Worcester,Spencer,Total,President,NA,Democratic,Clinton and Kaine,2265Worcester,Spencer,Total,President,NA,Libertarian,Johnson and Weld,296Worcester,Spencer,Total,President,NA,Green-Rainbow,Stein and Baraka,83Worcester,Spencer,Total,President,NA,Republican,Trump and Pence,3045Worcester,Spencer,Total,President,NA,,McMullin and Johnson,10Worcester,Spencer,Total,President,NA,,All Other Write Ins,94Worcester,Spencer,1,U.S. House,2,,Blanks,416Worcester,Spencer,1,U.S. House,2,Democratic,James P. McGovern,1038Worcester,Spencer,1,U.S. House,2,,Shane King,0Worcester,Spencer,1,U.S. House,2,,Jim Polito,0Worcester,Spencer,1,U.S. House,2,,Brian Hackett,0Worcester,Spencer,1,U.S. House,2,,Wayne Gruden,0Worcester,Spencer,1,U.S. House,2,,Pete Yanis,0Worcester,Spencer,1,U.S. House,2,,Ed Small,0Worcester,Spencer,1,U.S. House,2,,Norm Grisler,0Worcester,Spencer,1,U.S. House,2,,George Clinton,0Worcester,Spencer,1,U.S. House,2,,Seth Murray,0Worcester,Spencer,1,U.S. House,2,,Tony Bove,0Worcester,Spencer,1,U.S. House,2,,Craig Bertt,0Worcester,Spencer,1,U.S. House,2,,Bo Fritze,0Worcester,Spencer,1,U.S. House,2,,Michael Hackett,0Worcester,Spencer,1,U.S. House,2,,Dave Corville,0Worcester,Spencer,1,U.S. House,2,,Tom Brady,1Worcester,Spencer,1,U.S. House,2,,Lewis Evangeltis,1Worcester,Spencer,1,U.S. House,2,,Jeremy Levy,0Worcester,Spencer,1,U.S. House,2,,Donald Trump,1Worcester,Spencer,1,U.S. House,2,,Donna Ryel,0Worcester,Spencer,1,U.S. House,2,,John Cabana,0Worcester,Spencer,1,U.S. House,2,,Jordan Levy,0Worcester,Spencer,1,U.S. House,2,,Pat Carrol,0Worcester,Spencer,1,U.S. House,2,,Scott Bauer,0Worcester,Spencer,1,U.S. House,2,,Terry Dunn,0Worcester,Spencer,1,U.S. House,2,,Bob Grogan,0Worcester,Spencer,1,U.S. House,2,,Don Berthiaume,0Worcester,Spencer,1,U.S. House,2,,Ryan Faitman,0Worcester,Spencer,1,U.S. House,2,,Steve Griffin,0Worcester,Spencer,1,U.S. House,2,,Steve Houel,0Worcester,Spencer,1,U.S. House,2,,Steve Dayntis,0Worcester,Spencer,1,U.S. House,2,,Jennifer Ferguson,0Worcester,Spencer,1,U.S. House,2,,Charles Cheput,0Worcester,Spencer,1,U.S. House,2,,Allan Hoyt,2Worcester,Spencer,1,U.S. House,2,,Nancy Jackson,1Worcester,Spencer,1,U.S. House,2,,Chris Comeau,1Worcester,Spencer,1,U.S. House,2,,Jason Monette,1Worcester,Spencer,1,U.S. House,2,,Peter Durant,0Worcester,Spencer,1,U.S. House,2,,Emma Moroney,0Worcester,Spencer,1,U.S. House,2,,Michael Dukakis,0Worcester,Spencer,1,U.S. House,2,,Randi Larose,0Worcester,Spencer,1,U.S. House,2,,Chris Chambers,0Worcester,Spencer,1,U.S. House,2,,Ted Nugent,0Worcester,Spencer,2,U.S. House,2,,Blanks,358Worcester,Spencer,2,U.S. House,2,Democratic,James P. McGovern,956Worcester,Spencer,2,U.S. House,2,,Shane King,0Worcester,Spencer,2,U.S. House,2,,Jim Polito,0Worcester,Spencer,2,U.S. House,2,,Brian Hackett,0Worcester,Spencer,2,U.S. House,2,,Wayne Gruden,0Worcester,Spencer,2,U.S. House,2,,Pete Yanis,0Worcester,Spencer,2,U.S. House,2,,Ed Small,0Worcester,Spencer,2,U.S. House,2,,Norm Grisler,0Worcester,Spencer,2,U.S. House,2,,George Clinton,0Worcester,Spencer,2,U.S. House,2,,Seth Murray,0Worcester,Spencer,2,U.S. House,2,,Tony Bove,0Worcester,Spencer,2,U.S. House,2,,Craig Bertt,0Worcester,Spencer,2,U.S. House,2,,Bo Fritze,0Worcester,Spencer,2,U.S. House,2,,Michael Hackett,0Worcester,Spencer,2,U.S. House,2,,Dave Corville,0Worcester,Spencer,2,U.S. House,2,,Tom Brady,0Worcester,Spencer,2,U.S. House,2,,Lewis Evangeltis,0Worcester,Spencer,2,U.S. House,2,,Jeremy Levy,0Worcester,Spencer,2,U.S. House,2,,Donald Trump,0Worcester,Spencer,2,U.S. House,2,,Donna Ryel,0Worcester,Spencer,2,U.S. House,2,,John Cabana,0Worcester,Spencer,2,U.S. House,2,,Jordan Levy,2Worcester,Spencer,2,U.S. House,2,,Pat Carrol,1Worcester,Spencer,2,U.S. House,2,,Scott Bauer,1Worcester,Spencer,2,U.S. House,2,,Terry Dunn,1Worcester,Spencer,2,U.S. House,2,,Bob Grogan,1Worcester,Spencer,2,U.S. House,2,,Don Berthiaume,1Worcester,Spencer,2,U.S. House,2,,Ryan Faitman,0Worcester,Spencer,2,U.S. House,2,,Steve Griffin,0Worcester,Spencer,2,U.S. House,2,,Steve Houel,0Worcester,Spencer,2,U.S. House,2,,Steve Dayntis,0Worcester,Spencer,2,U.S. House,2,,Jennifer Ferguson,0Worcester,Spencer,2,U.S. House,2,,Charles Cheput,1Worcester,Spencer,2,U.S. House,2,,Allan Hoyt,0Worcester,Spencer,2,U.S. House,2,,Nancy Jackson,0Worcester,Spencer,2,U.S. House,2,,Chris Comeau,0Worcester,Spencer,2,U.S. House,2,,Jason Monette,0Worcester,Spencer,2,U.S. House,2,,Peter Durant,1Worcester,Spencer,2,U.S. House,2,,Emma Moroney,1Worcester,Spencer,2,U.S. House,2,,Michael Dukakis,1Worcester,Spencer,2,U.S. House,2,,Randi Larose,1Worcester,Spencer,2,U.S. House,2,,Chris Chambers,1Worcester,Spencer,2,U.S. House,2,,Ted Nugent,1Worcester,Spencer,3,U.S. House,2,,Blanks,421Worcester,Spencer,3,U.S. House,2,Democratic,James P. McGovern,1112Worcester,Spencer,3,U.S. House,2,,Shane King,1Worcester,Spencer,3,U.S. House,2,,Jim Polito,1Worcester,Spencer,3,U.S. House,2,,Brian Hackett,1Worcester,Spencer,3,U.S. House,2,,Wayne Gruden,1Worcester,Spencer,3,U.S. House,2,,Pete Yanis,1Worcester,Spencer,3,U.S. House,2,,Ed Small,1Worcester,Spencer,3,U.S. House,2,,Norm Grisler,2Worcester,Spencer,3,U.S. House,2,,George Clinton,1Worcester,Spencer,3,U.S. House,2,,Seth Murray,1Worcester,Spencer,3,U.S. House,2,,Tony Bove,1Worcester,Spencer,3,U.S. House,2,,Craig Bertt,1Worcester,Spencer,3,U.S. House,2,,Bo Fritze,1Worcester,Spencer,3,U.S. House,2,,Michael Hackett,1Worcester,Spencer,3,U.S. House,2,,Dave Corville,1Worcester,Spencer,3,U.S. House,2,,Tom Brady,2Worcester,Spencer,3,U.S. House,2,,Lewis Evangeltis,1Worcester,Spencer,3,U.S. House,2,,Jeremy Levy,1Worcester,Spencer,3,U.S. House,2,,Donald Trump,1Worcester,Spencer,3,U.S. House,2,,Donna Ryel,1Worcester,Spencer,3,U.S. House,2,,John Cabana,1Worcester,Spencer,3,U.S. House,2,,Jordan Levy,0Worcester,Spencer,3,U.S. House,2,,Pat Carrol,0Worcester,Spencer,3,U.S. House,2,,Scott Bauer,0Worcester,Spencer,3,U.S. House,2,,Terry Dunn,0Worcester,Spencer,3,U.S. House,2,,Bob Grogan,0Worcester,Spencer,3,U.S. House,2,,Don Berthiaume,0Worcester,Spencer,3,U.S. House,2,,Ryan Faitman,0Worcester,Spencer,3,U.S. House,2,,Steve Griffin,0Worcester,Spencer,3,U.S. House,2,,Steve Houel,0Worcester,Spencer,3,U.S. House,2,,Steve Dayntis,0Worcester,Spencer,3,U.S. House,2,,Jennifer Ferguson,0Worcester,Spencer,3,U.S. House,2,,Charles Cheput,0Worcester,Spencer,3,U.S. House,2,,Allan Hoyt,0Worcester,Spencer,3,U.S. House,2,,Nancy Jackson,0Worcester,Spencer,3,U.S. House,2,,Chris Comeau,0Worcester,Spencer,3,U.S. House,2,,Jason Monette,0Worcester,Spencer,3,U.S. House,2,,Peter Durant,0Worcester,Spencer,3,U.S. House,2,,Emma Moroney,0Worcester,Spencer,3,U.S. House,2,,Michael Dukakis,0Worcester,Spencer,3,U.S. House,2,,Randi Larose,0Worcester,Spencer,3,U.S. House,2,,Chris Chambers,0Worcester,Spencer,3,U.S. House,2,,Ted Nugent,0Worcester,Spencer,4,U.S. House,2,,Blanks,435Worcester,Spencer,4,U.S. House,2,Democratic,James P. McGovern,1090Worcester,Spencer,4,U.S. House,2,,Shane King,0Worcester,Spencer,4,U.S. House,2,,Jim Polito,0Worcester,Spencer,4,U.S. House,2,,Brian Hackett,0Worcester,Spencer,4,U.S. House,2,,Wayne Gruden,0Worcester,Spencer,4,U.S. House,2,,Pete Yanis,0Worcester,Spencer,4,U.S. House,2,,Ed Small,0Worcester,Spencer,4,U.S. House,2,,Norm Grisler,0Worcester,Spencer,4,U.S. House,2,,George Clinton,0Worcester,Spencer,4,U.S. House,2,,Seth Murray,0Worcester,Spencer,4,U.S. House,2,,Tony Bove,0Worcester,Spencer,4,U.S. House,2,,Craig Bertt,0Worcester,Spencer,4,U.S. House,2,,Bo Fritze,0Worcester,Spencer,4,U.S. House,2,,Michael Hackett,0Worcester,Spencer,4,U.S. House,2,,Dave Corville,0Worcester,Spencer,4,U.S. House,2,,Tom Brady,0Worcester,Spencer,4,U.S. House,2,,Lewis Evangeltis,0Worcester,Spencer,4,U.S. House,2,,Jeremy Levy,0Worcester,Spencer,4,U.S. House,2,,Donald Trump,0Worcester,Spencer,4,U.S. House,2,,Donna Ryel,0Worcester,Spencer,4,U.S. House,2,,John Cabana,0Worcester,Spencer,4,U.S. House,2,,Jordan Levy,0Worcester,Spencer,4,U.S. House,2,,Pat Carrol,0Worcester,Spencer,4,U.S. House,2,,Scott Bauer,0Worcester,Spencer,4,U.S. House,2,,Terry Dunn,0Worcester,Spencer,4,U.S. House,2,,Bob Grogan,0Worcester,Spencer,4,U.S. House,2,,Don Berthiaume,0Worcester,Spencer,4,U.S. House,2,,Ryan Faitman,1Worcester,Spencer,4,U.S. House,2,,Steve Griffin,1Worcester,Spencer,4,U.S. House,2,,Steve Houel,1Worcester,Spencer,4,U.S. House,2,,Steve Dayntis,1Worcester,Spencer,4,U.S. House,2,,Jennifer Ferguson,1Worcester,Spencer,4,U.S. House,2,,Charles Cheput,0Worcester,Spencer,4,U.S. House,2,,Allan Hoyt,0Worcester,Spencer,4,U.S. House,2,,Nancy Jackson,0Worcester,Spencer,4,U.S. House,2,,Chris Comeau,0Worcester,Spencer,4,U.S. House,2,,Jason Monette,0Worcester,Spencer,4,U.S. House,2,,Peter Durant,0Worcester,Spencer,4,U.S. House,2,,Emma Moroney,0Worcester,Spencer,4,U.S. House,2,,Michael Dukakis,0Worcester,Spencer,4,U.S. House,2,,Randi Larose,0Worcester,Spencer,4,U.S. House,2,,Chris Chambers,0Worcester,Spencer,4,U.S. House,2,,Ted Nugent,0Worcester,Spencer,Total,U.S. House,2,,Blanks,1630Worcester,Spencer,Total,U.S. House,2,Democratic,James P. McGovern,4196Worcester,Spencer,Total,U.S. House,2,,Shane King,1Worcester,Spencer,Total,U.S. House,2,,Jim Polito,1Worcester,Spencer,Total,U.S. House,2,,Brian Hackett,1Worcester,Spencer,Total,U.S. House,2,,Wayne Gruden,1Worcester,Spencer,Total,U.S. House,2,,Pete Yanis,1Worcester,Spencer,Total,U.S. House,2,,Ed Small,1Worcester,Spencer,Total,U.S. House,2,,Norm Grisler,2Worcester,Spencer,Total,U.S. House,2,,George Clinton,1Worcester,Spencer,Total,U.S. House,2,,Seth Murray,1Worcester,Spencer,Total,U.S. House,2,,Tony Bove,1Worcester,Spencer,Total,U.S. House,2,,Craig Bertt,1Worcester,Spencer,Total,U.S. House,2,,Bo Fritze,1Worcester,Spencer,Total,U.S. House,2,,Michael Hackett,1Worcester,Spencer,Total,U.S. House,2,,Dave Corville,1Worcester,Spencer,Total,U.S. House,2,,Tom Brady,3Worcester,Spencer,Total,U.S. House,2,,Lewis Evangeltis,2Worcester,Spencer,Total,U.S. House,2,,Jeremy Levy,1Worcester,Spencer,Total,U.S. House,2,,Donald Trump,2Worcester,Spencer,Total,U.S. House,2,,Donna Ryel,1Worcester,Spencer,Total,U.S. House,2,,John Cabana,1Worcester,Spencer,Total,U.S. House,2,,Jordan Levy,2Worcester,Spencer,Total,U.S. House,2,,Pat Carrol,1Worcester,Spencer,Total,U.S. House,2,,Scott Bauer,1Worcester,Spencer,Total,U.S. House,2,,Terry Dunn,1Worcester,Spencer,Total,U.S. House,2,,Bob Grogan,1Worcester,Spencer,Total,U.S. House,2,,Don Berthiaume,1Worcester,Spencer,Total,U.S. House,2,,Ryan Faitman,1Worcester,Spencer,Total,U.S. House,2,,Steve Griffin,1Worcester,Spencer,Total,U.S. House,2,,Steve Houel,1Worcester,Spencer,Total,U.S. House,2,,Steve Dayntis,1Worcester,Spencer,Total,U.S. House,2,,Jennifer Ferguson,1Worcester,Spencer,Total,U.S. House,2,,Charles Cheput,1Worcester,Spencer,Total,U.S. House,2,,Allan Hoyt,2Worcester,Spencer,Total,U.S. House,2,,Nancy Jackson,1Worcester,Spencer,Total,U.S. House,2,,Chris Comeau,1Worcester,Spencer,Total,U.S. House,2,,Jason Monette,1Worcester,Spencer,Total,U.S. House,2,,Peter Durant,1Worcester,Spencer,Total,U.S. House,2,,Emma Moroney,1Worcester,Spencer,Total,U.S. House,2,,Michael Dukakis,1Worcester,Spencer,Total,U.S. House,2,,Randi Larose,1Worcester,Spencer,Total,U.S. House,2,,Chris Chambers,1Worcester,Spencer,Total,U.S. House,2,,Ted Nugent,1Worcester,Spencer,1,Councillor,7,,Blanks,146Worcester,Spencer,1,Councillor,7,Republican,Jennie L. Caissie,862Worcester,Spencer,1,Councillor,7,Democratic,Matthew CJ Vance,459Worcester,Spencer,1,Councillor,7,,Edward Cabana,0Worcester,Spencer,1,Councillor,7,,Frank Dux,1Worcester,Spencer,2,Councillor,7,,Blanks,127Worcester,Spencer,2,Councillor,7,Republican,Jennie L. Caissie,790Worcester,Spencer,2,Councillor,7,Democratic,Matthew CJ Vance,405Worcester,Spencer,2,Councillor,7,,Edward Cabana,0Worcester,Spencer,2,Councillor,7,,Frank Dux,0Worcester,Spencer,3,Councillor,7,,Blanks,163Worcester,Spencer,3,Councillor,7,Republican,Jennie L. Caissie,903Worcester,Spencer,3,Councillor,7,Democratic,Matthew CJ Vance,488Worcester,Spencer,3,Councillor,7,,Edward Cabana,1Worcester,Spencer,3,Councillor,7,,Frank Dux,0Worcester,Spencer,4,Councillor,7,,Blanks,163Worcester,Spencer,4,Councillor,7,Republican,Jennie L. Caissie,886Worcester,Spencer,4,Councillor,7,Democratic,Matthew CJ Vance,481Worcester,Spencer,4,Councillor,7,,Edward Cabana,0Worcester,Spencer,4,Councillor,7,,Frank Dux,0Worcester,Spencer,Total,Councillor,7,,Blanks,599Worcester,Spencer,Total,Councillor,7,Republican,Jennie L. Caissie,3441Worcester,Spencer,Total,Councillor,7,Democratic,Matthew CJ Vance,1833Worcester,Spencer,Total,Councillor,7,,Edward Cabana,1Worcester,Spencer,Total,Councillor,7,,Frank Dux,1Worcester,Spencer,1,State Senate,"Worcester, Hampden, Hampshire and Middlesex",,Blanks,91Worcester,Spencer,1,State Senate,"Worcester, Hampden, Hampshire and Middlesex",Democratic,Anne M. Gobi,884Worcester,Spencer,1,State Senate,"Worcester, Hampden, Hampshire and Middlesex",Republican,James P. Ehrhard,493Worcester,Spencer,2,State Senate,"Worcester, Hampden, Hampshire and Middlesex",,Blanks,86Worcester,Spencer,2,State Senate,"Worcester, Hampden, Hampshire and Middlesex",Democratic,Anne M. Gobi,796Worcester,Spencer,2,State Senate,"Worcester, Hampden, Hampshire and Middlesex",Republican,James P. Ehrhard,440Worcester,Spencer,3,State Senate,"Worcester, Hampden, Hampshire and Middlesex",,Blanks,89Worcester,Spencer,3,State Senate,"Worcester, Hampden, Hampshire and Middlesex",Democratic,Anne M. Gobi,894Worcester,Spencer,3,State Senate,"Worcester, Hampden, Hampshire and Middlesex",Republican,James P. Ehrhard,572Worcester,Spencer,4,State Senate,"Worcester, Hampden, Hampshire and Middlesex",,Blanks,86Worcester,Spencer,4,State Senate,"Worcester, Hampden, Hampshire and Middlesex",Democratic,Anne M. Gobi,963Worcester,Spencer,4,State Senate,"Worcester, Hampden, Hampshire and Middlesex",Republican,James P. Ehrhard,481Worcester,Spencer,Total,State Senate,"Worcester, Hampden, Hampshire and Middlesex",,Blanks,352Worcester,Spencer,Total,State Senate,"Worcester, Hampden, Hampshire and Middlesex",Democratic,Anne M. Gobi,3537Worcester,Spencer,Total,State Senate,"Worcester, Hampden, Hampshire and Middlesex",Republican,James P. Ehrhard,1986Worcester,Spencer,1,State House,5th Worcester,,Blanks,0Worcester,Spencer,1,State House,6th Worcester,,Blanks,315Worcester,Spencer,1,State House,6th Worcester,Republican,Peter J. Durant,1145Worcester,Spencer,1,State House,5th Worcester,Republican,"Donald R. Berthiaume, Jr.",0Worcester,Spencer,1,State House,5th Worcester,,Edward Cabana,0Worcester,Spencer,1,State House,5th Worcester,,Jeff Jones,0Worcester,Spencer,1,State House,5th Worcester,,Patrick Farmer,0Worcester,Spencer,1,State House,5th Worcester,,Craig Burtt,0Worcester,Spencer,1,State House,5th Worcester,,Ed Thibeault,0Worcester,Spencer,1,State House,5th Worcester,,William Shemeth,0Worcester,Spencer,1,State House,6th Worcester,,William Shemeth,1Worcester,Spencer,1,State House,5th Worcester,,Karl Ronson,0Worcester,Spencer,1,State House,5th Worcester,,Jennifer Gaucher,0Worcester,Spencer,1,State House,6th Worcester,,Clyde Anderson,1Worcester,Spencer,1,State House,6th Worcester,,Peter J. Durant,1Worcester,Spencer,1,State House,6th Worcester,,Tom Brady,1Worcester,Spencer,1,State House,6th Worcester,,Simon Peter,1Worcester,Spencer,1,State House,6th Worcester,,Ralph Sargent,1Worcester,Spencer,1,State House,6th Worcester,,James McGovern,1Worcester,Spencer,1,State House,6th Worcester,,Robert Ferreira,1Worcester,Spencer,2,State House,5th Worcester,,Blanks,263Worcester,Spencer,2,State House,6th Worcester,,Blanks,0Worcester,Spencer,2,State House,6th Worcester,Republican,Peter J. Durant,0Worcester,Spencer,2,State House,5th Worcester,Republican,"Donald R. Berthiaume, Jr.",1056Worcester,Spencer,2,State House,5th Worcester,,Edward Cabana,0Worcester,Spencer,2,State House,5th Worcester,,Jeff Jones,0Worcester,Spencer,2,State House,5th Worcester,,Patrick Farmer,0Worcester,Spencer,2,State House,5th Worcester,,Craig Burtt,0Worcester,Spencer,2,State House,5th Worcester,,Ed Thibeault,0Worcester,Spencer,2,State House,5th Worcester,,William Shemeth,1Worcester,Spencer,2,State House,6th Worcester,,William Shemeth,0Worcester,Spencer,2,State House,5th Worcester,,Karl Ronson,1Worcester,Spencer,2,State House,5th Worcester,,Jennifer Gaucher,1Worcester,Spencer,2,State House,6th Worcester,,Clyde Anderson,0Worcester,Spencer,2,State House,6th Worcester,,Peter J. Durant,0Worcester,Spencer,2,State House,6th Worcester,,Tom Brady,0Worcester,Spencer,2,State House,6th Worcester,,Simon Peter,0Worcester,Spencer,2,State House,6th Worcester,,Ralph Sargent,0Worcester,Spencer,2,State House,6th Worcester,,James McGovern,0Worcester,Spencer,2,State House,6th Worcester,,Robert Ferreira,0Worcester,Spencer,3,State House,5th Worcester,,Blanks,323Worcester,Spencer,3,State House,6th Worcester,,Blanks,0Worcester,Spencer,3,State House,6th Worcester,Republican,Peter J. Durant,0Worcester,Spencer,3,State House,5th Worcester,Republican,"Donald R. Berthiaume, Jr.",1226Worcester,Spencer,3,State House,5th Worcester,,Edward Cabana,1Worcester,Spencer,3,State House,5th Worcester,,Jeff Jones,1Worcester,Spencer,3,State House,5th Worcester,,Patrick Farmer,2Worcester,Spencer,3,State House,5th Worcester,,Craig Burtt,1Worcester,Spencer,3,State House,5th Worcester,,Ed Thibeault,1Worcester,Spencer,3,State House,5th Worcester,,William Shemeth,0Worcester,Spencer,3,State House,6th Worcester,,William Shemeth,0Worcester,Spencer,3,State House,5th Worcester,,Karl Ronson,0Worcester,Spencer,3,State House,5th Worcester,,Jennifer Gaucher,0Worcester,Spencer,3,State House,6th Worcester,,Clyde Anderson,0Worcester,Spencer,3,State House,6th Worcester,,Peter J. Durant,0Worcester,Spencer,3,State House,6th Worcester,,Tom Brady,0Worcester,Spencer,3,State House,6th Worcester,,Simon Peter,0Worcester,Spencer,3,State House,6th Worcester,,Ralph Sargent,0Worcester,Spencer,3,State House,6th Worcester,,James McGovern,0Worcester,Spencer,3,State House,6th Worcester,,Robert Ferreira,0Worcester,Spencer,4,State House,5th Worcester,,Blanks,0Worcester,Spencer,4,State House,6th Worcester,,Blanks,0Worcester,Spencer,4,State House,6th Worcester,Republican,Peter J. Durant,0Worcester,Spencer,4,State House,5th Worcester,Republican,"Donald R. Berthiaume, Jr.",0Worcester,Spencer,4,State House,5th Worcester,,Edward Cabana,0Worcester,Spencer,4,State House,5th Worcester,,Jeff Jones,0Worcester,Spencer,4,State House,5th Worcester,,Patrick Farmer,0Worcester,Spencer,4,State House,5th Worcester,,Craig Burtt,0Worcester,Spencer,4,State House,5th Worcester,,Ed Thibeault,0Worcester,Spencer,4,State House,5th Worcester,,William Shemeth,0Worcester,Spencer,4,State House,6th Worcester,,William Shemeth,0Worcester,Spencer,4,State House,5th Worcester,,Karl Ronson,0Worcester,Spencer,4,State House,5th Worcester,,Jennifer Gaucher,0Worcester,Spencer,4,State House,6th Worcester,,Clyde Anderson,0Worcester,Spencer,4,State House,6th Worcester,,Peter J. Durant,0Worcester,Spencer,4,State House,6th Worcester,,Tom Brady,0Worcester,Spencer,4,State House,6th Worcester,,Simon Peter,0Worcester,Spencer,4,State House,6th Worcester,,Ralph Sargent,0Worcester,Spencer,4,State House,6th Worcester,,James McGovern,0Worcester,Spencer,4,State House,6th Worcester,,Robert Ferreira,0Worcester,Spencer,5,State House,5th Worcester,,Blanks,337Worcester,Spencer,5,State House,6th Worcester,,Blanks,0Worcester,Spencer,5,State House,6th Worcester,Republican,Peter J. Durant,0Worcester,Spencer,5,State House,5th Worcester,Republican,"Donald R. Berthiaume, Jr.",1193Worcester,Spencer,5,State House,5th Worcester,,Edward Cabana,0Worcester,Spencer,5,State House,5th Worcester,,Jeff Jones,0Worcester,Spencer,5,State House,5th Worcester,,Patrick Farmer,0Worcester,Spencer,5,State House,5th Worcester,,Craig Burtt,0Worcester,Spencer,5,State House,5th Worcester,,Ed Thibeault,0Worcester,Spencer,5,State House,5th Worcester,,William Shemeth,0Worcester,Spencer,5,State House,6th Worcester,,William Shemeth,0Worcester,Spencer,5,State House,5th Worcester,,Karl Ronson,0Worcester,Spencer,5,State House,5th Worcester,,Jennifer Gaucher,0Worcester,Spencer,5,State House,6th Worcester,,Clyde Anderson,0Worcester,Spencer,5,State House,6th Worcester,,Peter J. Durant,0Worcester,Spencer,5,State House,6th Worcester,,Tom Brady,0Worcester,Spencer,5,State House,6th Worcester,,Simon Peter,0Worcester,Spencer,5,State House,6th Worcester,,Ralph Sargent,0Worcester,Spencer,5,State House,6th Worcester,,James McGovern,0Worcester,Spencer,5,State House,6th Worcester,,Robert Ferreira,0Worcester,Spencer,Total,State House,5th Worcester,,Blanks,923Worcester,Spencer,Total,State House,6th Worcester,,Blanks,315Worcester,Spencer,Total,State House,6th Worcester,Republican,Peter J. Durant,1145Worcester,Spencer,Total,State House,5th Worcester,Republican,"Donald R. Berthiaume, Jr.",3475Worcester,Spencer,Total,State House,5th Worcester,,Edward Cabana,1Worcester,Spencer,Total,State House,5th Worcester,,Jeff Jones,1Worcester,Spencer,Total,State House,5th Worcester,,Patrick Farmer,2Worcester,Spencer,Total,State House,5th Worcester,,Craig Burtt,1Worcester,Spencer,Total,State House,5th Worcester,,Ed Thibeault,1Worcester,Spencer,Total,State House,5th Worcester,,William Shemeth,1Worcester,Spencer,Total,State House,6th Worcester,,William Shemeth,1Worcester,Spencer,Total,State House,5th Worcester,,Karl Ronson,1Worcester,Spencer,Total,State House,5th Worcester,,Jennifer Gaucher,1Worcester,Spencer,Total,State House,6th Worcester,,Clyde Anderson,1Worcester,Spencer,Total,State House,6th Worcester,,Peter J. Durant,1Worcester,Spencer,Total,State House,6th Worcester,,Tom Brady,1Worcester,Spencer,Total,State House,6th Worcester,,Simon Peter,1Worcester,Spencer,Total,State House,6th Worcester,,Ralph Sargent,1Worcester,Spencer,Total,State House,6th Worcester,,James McGovern,1Worcester,Spencer,Total,State House,6th Worcester,,Robert Ferreira,1
