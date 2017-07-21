@@ -1,0 +1,133 @@
+"county","town","precinct","office","district","party","candidate","votes"
+"Worcester","Auburn","1","President",,"Democratic","CLINTON & KAINE",934
+"Worcester","Auburn","1","President",,"Libertarian","JOHNSON & WELD",115
+"Worcester","Auburn","1","President",,"Green and Rainbow","STEIN & BARAKA",14
+"Worcester","Auburn","1","President",,"Republican","TRUMP & PENCE",841
+"Worcester","Auburn","1","President",,"","Blanks",38
+"Worcester","Auburn","1","President",,"","Scattering Write-ins",31
+"Worcester","Auburn","1","President",,"","MCMULLIN & JOHNSON",6
+"Worcester","Auburn","2","President",,"Democratic","CLINTON & KAINE",959
+"Worcester","Auburn","2","President",,"Libertarian","JOHNSON & WELD",87
+"Worcester","Auburn","2","President",,"Green and Rainbow","STEIN & BARAKA",20
+"Worcester","Auburn","2","President",,"Republican","TRUMP & PENCE",822
+"Worcester","Auburn","2","President",,"","Blanks",33
+"Worcester","Auburn","2","President",,"","Scattering Write-ins",24
+"Worcester","Auburn","2","President",,"","MCMULLIN & JOHNSON",5
+"Worcester","Auburn","3","President",,"Democratic","CLINTON & KAINE",968
+"Worcester","Auburn","3","President",,"Libertarian","JOHNSON & WELD",99
+"Worcester","Auburn","3","President",,"Green and Rainbow","STEIN & BARAKA",15
+"Worcester","Auburn","3","President",,"Republican","TRUMP & PENCE",839
+"Worcester","Auburn","3","President",,"","Blanks",22
+"Worcester","Auburn","3","President",,"","Scattering Write-ins",38
+"Worcester","Auburn","3","President",,"","MCMULLIN & JOHNSON",6
+"Worcester","Auburn","4","President",,"Democratic","CLINTON & KAINE",830
+"Worcester","Auburn","4","President",,"Libertarian","JOHNSON & WELD",153
+"Worcester","Auburn","4","President",,"Green and Rainbow","STEIN & BARAKA",29
+"Worcester","Auburn","4","President",,"Republican","TRUMP & PENCE",746
+"Worcester","Auburn","4","President",,"","Blanks",34
+"Worcester","Auburn","4","President",,"","Scattering Write-ins",16
+"Worcester","Auburn","4","President",,"","MCMULLIN & JOHNSON",1
+"Worcester","Auburn","5","President",,"Democratic","CLINTON & KAINE",805
+"Worcester","Auburn","5","President",,"Libertarian","JOHNSON & WELD",99
+"Worcester","Auburn","5","President",,"Green and Rainbow","STEIN & BARAKA",14
+"Worcester","Auburn","5","President",,"Republican","TRUMP & PENCE",752
+"Worcester","Auburn","5","President",,"","Blanks",30
+"Worcester","Auburn","5","President",,"","Scattering Write-ins",27
+"Worcester","Auburn","5","President",,"","MCMULLIN & JOHNSON",3
+"Worcester","Auburn","Total","President",,"Democratic","CLINTON & KAINE",4496
+"Worcester","Auburn","Total","President",,"Libertarian","JOHNSON & WELD",553
+"Worcester","Auburn","Total","President",,"Green and Rainbow","STEIN & BARAKA",92
+"Worcester","Auburn","Total","President",,"Republican","TRUMP & PENCE",4000
+"Worcester","Auburn","Total","President",,"","Blanks",157
+"Worcester","Auburn","Total","President",,"","Scattering Write-ins",136
+"Worcester","Auburn","Total","President",,"","MCMULLIN & JOHNSON",21
+"Worcester","Auburn","1","U.S. House","2","Democratic","JAMES P. MC GOVERN",1419
+"Worcester","Auburn","1","U.S. House","2","","Blanks",541
+"Worcester","Auburn","1","U.S. House","2","","Scattering Write-ins",19
+"Worcester","Auburn","2","U.S. House","2","Democratic","JAMES P. MC GOVERN",1463
+"Worcester","Auburn","2","U.S. House","2","","Blanks",462
+"Worcester","Auburn","2","U.S. House","2","","Scattering Write-ins",25
+"Worcester","Auburn","3","U.S. House","2","Democratic","JAMES P. MC GOVERN",1452
+"Worcester","Auburn","3","U.S. House","2","","Blanks",501
+"Worcester","Auburn","3","U.S. House","2","","Scattering Write-ins",34
+"Worcester","Auburn","4","U.S. House","2","Democratic","JAMES P. MC GOVERN",1373
+"Worcester","Auburn","4","U.S. House","2","","Blanks",410
+"Worcester","Auburn","4","U.S. House","2","","Scattering Write-ins",26
+"Worcester","Auburn","5","U.S. House","2","Democratic","JAMES P. MC GOVERN",1289
+"Worcester","Auburn","5","U.S. House","2","","Blanks",417
+"Worcester","Auburn","5","U.S. House","2","","Scattering Write-ins",24
+"Worcester","Auburn","Total","U.S. House","2","Democratic","JAMES P. MC GOVERN",6996
+"Worcester","Auburn","Total","U.S. House","2","","Blanks",2331
+"Worcester","Auburn","Total","U.S. House","2","","Scattering Write-ins",128
+"Worcester","Auburn","1","Councillor","7","Republican","JENNIE L. CAISSIE",1135
+"Worcester","Auburn","1","Councillor","7","Democratic","MATTHEW CJ VANCE",631
+"Worcester","Auburn","1","Councillor","7","","Blanks",213
+"Worcester","Auburn","1","Councillor","7","","Scattering Write-ins",0
+"Worcester","Auburn","2","Councillor","7","Republican","JENNIE L. CAISSIE",1138
+"Worcester","Auburn","2","Councillor","7","Democratic","MATTHEW CJ VANCE",618
+"Worcester","Auburn","2","Councillor","7","","Blanks",194
+"Worcester","Auburn","2","Councillor","7","","Scattering Write-ins",0
+"Worcester","Auburn","3","Councillor","7","Republican","JENNIE L. CAISSIE",1111
+"Worcester","Auburn","3","Councillor","7","Democratic","MATTHEW CJ VANCE",678
+"Worcester","Auburn","3","Councillor","7","","Blanks",197
+"Worcester","Auburn","3","Councillor","7","","Scattering Write-ins",1
+"Worcester","Auburn","4","Councillor","7","Republican","JENNIE L. CAISSIE",1026
+"Worcester","Auburn","4","Councillor","7","Democratic","MATTHEW CJ VANCE",616
+"Worcester","Auburn","4","Councillor","7","","Blanks",167
+"Worcester","Auburn","4","Councillor","7","","Scattering Write-ins",0
+"Worcester","Auburn","5","Councillor","7","Republican","JENNIE L. CAISSIE",1004
+"Worcester","Auburn","5","Councillor","7","Democratic","MATTHEW CJ VANCE",567
+"Worcester","Auburn","5","Councillor","7","","Blanks",156
+"Worcester","Auburn","5","Councillor","7","","Scattering Write-ins",3
+"Worcester","Auburn","Total","Councillor","7","Republican","JENNIE L. CAISSIE",5414
+"Worcester","Auburn","Total","Councillor","7","Democratic","MATTHEW CJ VANCE",3110
+"Worcester","Auburn","Total","Councillor","7","","Blanks",927
+"Worcester","Auburn","Total","Councillor","7","","Scattering Write-ins",4
+"Worcester","Auburn","1","State Senate","2nd Worcester","Democratic","MICHAEL O. MOORE",1339
+"Worcester","Auburn","1","State Senate","2nd Worcester","Republican","MESFIN H. BESHIR",452
+"Worcester","Auburn","1","State Senate","2nd Worcester","","Blanks",188
+"Worcester","Auburn","1","State Senate","2nd Worcester","","Scattering Write-ins",0
+"Worcester","Auburn","2","State Senate","2nd Worcester","Democratic","MICHAEL O. MOORE",1350
+"Worcester","Auburn","2","State Senate","2nd Worcester","Republican","MESFIN H. BESHIR",422
+"Worcester","Auburn","2","State Senate","2nd Worcester","","Blanks",177
+"Worcester","Auburn","2","State Senate","2nd Worcester","","Scattering Write-ins",1
+"Worcester","Auburn","3","State Senate","2nd Worcester","Democratic","MICHAEL O. MOORE",1368
+"Worcester","Auburn","3","State Senate","2nd Worcester","Republican","MESFIN H. BESHIR",452
+"Worcester","Auburn","3","State Senate","2nd Worcester","","Blanks",165
+"Worcester","Auburn","3","State Senate","2nd Worcester","","Scattering Write-ins",2
+"Worcester","Auburn","4","State Senate","2nd Worcester","Democratic","MICHAEL O. MOORE",1253
+"Worcester","Auburn","4","State Senate","2nd Worcester","Republican","MESFIN H. BESHIR",421
+"Worcester","Auburn","4","State Senate","2nd Worcester","","Blanks",134
+"Worcester","Auburn","4","State Senate","2nd Worcester","","Scattering Write-ins",1
+"Worcester","Auburn","5","State Senate","2nd Worcester","Democratic","MICHAEL O. MOORE",1157
+"Worcester","Auburn","5","State Senate","2nd Worcester","Republican","MESFIN H. BESHIR",417
+"Worcester","Auburn","5","State Senate","2nd Worcester","","Blanks",155
+"Worcester","Auburn","5","State Senate","2nd Worcester","","Scattering Write-ins",1
+"Worcester","Auburn","Total","State Senate","2nd Worcester","Democratic","MICHAEL O. MOORE",6467
+"Worcester","Auburn","Total","State Senate","2nd Worcester","Republican","MESFIN H. BESHIR",2164
+"Worcester","Auburn","Total","State Senate","2nd Worcester","","Blanks",819
+"Worcester","Auburn","Total","State Senate","2nd Worcester","","Scattering Write-ins",5
+"Worcester","Auburn","1","State House","7th Worcester","Republican","PAUL K. FROST",1277
+"Worcester","Auburn","1","State House","7th Worcester","Democratic","TERRY BURKE DOTSON",558
+"Worcester","Auburn","1","State House","7th Worcester","","Blanks",143
+"Worcester","Auburn","1","State House","7th Worcester","","Scattering Write-ins",1
+"Worcester","Auburn","2","State House","7th Worcester","Republican","PAUL K. FROST",1295
+"Worcester","Auburn","2","State House","7th Worcester","Democratic","TERRY BURKE DOTSON",556
+"Worcester","Auburn","2","State House","7th Worcester","","Blanks",99
+"Worcester","Auburn","2","State House","7th Worcester","","Scattering Write-ins",0
+"Worcester","Auburn","3","State House","7th Worcester","Republican","PAUL K. FROST",1303
+"Worcester","Auburn","3","State House","7th Worcester","Democratic","TERRY BURKE DOTSON",568
+"Worcester","Auburn","3","State House","7th Worcester","","Blanks",116
+"Worcester","Auburn","3","State House","7th Worcester","","Scattering Write-ins",0
+"Worcester","Auburn","4","State House","7th Worcester","Republican","PAUL K. FROST",1172
+"Worcester","Auburn","4","State House","7th Worcester","Democratic","TERRY BURKE DOTSON",537
+"Worcester","Auburn","4","State House","7th Worcester","","Blanks",100
+"Worcester","Auburn","4","State House","7th Worcester","","Scattering Write-ins",0
+"Worcester","Auburn","5","State House","7th Worcester","Republican","PAUL K. FROST",1143
+"Worcester","Auburn","5","State House","7th Worcester","Democratic","TERRY BURKE DOTSON",484
+"Worcester","Auburn","5","State House","7th Worcester","","Blanks",102
+"Worcester","Auburn","5","State House","7th Worcester","","Scattering Write-ins",1
+"Worcester","Auburn","Total","State House","7th Worcester","Republican","PAUL K. FROST",6190
+"Worcester","Auburn","Total","State House","7th Worcester","Democratic","TERRY BURKE DOTSON",2703
+"Worcester","Auburn","Total","State House","7th Worcester","","Blanks",560
+"Worcester","Auburn","Total","State House","7th Worcester","","Scattering Write-ins",2
