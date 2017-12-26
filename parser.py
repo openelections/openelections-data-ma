@@ -85,7 +85,7 @@ def parse_governor():
                     results.append([row['City/Town'], row['Ward'], row['Pct'], 'Governor', None, party, col.replace('/', ' and'), int(row[col].replace(',',''))])
 
 def parse_us_senate():
-    url = "http://electionstats.state.ma.us/elections/search/year_from:2000/year_to:2000/office_id:6/stage:General"
+    url = "http://electionstats.state.ma.us/elections/search/year_from:2010/year_to:2010/office_id:6/stage:General"
     r = requests.get(url)
     soup = BeautifulSoup(r.text)
     state_house_candidates = []
@@ -432,19 +432,19 @@ def parse_state_house():
 
 if __name__ == "__main__":
     results = []
-    parse_president()
+#    parse_president()
     parse_us_senate()
 #    parse_governor()
 #    parse_secretary()
 #    parse_treasurer()
 #    parse_auditor()
 #    parse_attorney_general()
-    parse_council()
-    parse_us_house()
-    parse_state_senate()
-    parse_state_house()
+#    parse_council()
+#    parse_us_house()
+#    parse_state_senate()
+#    parse_state_house()
     results = [list(x) for x in set(tuple(x) for x in results)]
-    with open('2000/20001107__ma__general__precinct.csv','wb') as csvfile:
+    with open('2010/20100119__ma__special__general__precinct.csv','wb') as csvfile:
         csvwriter = csv.writer(csvfile, encoding='utf-8')
         csvwriter.writerow(['town', 'ward', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'])
         csvwriter.writerows(results)
