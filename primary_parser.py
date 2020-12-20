@@ -5,7 +5,7 @@ import requests
 from BeautifulSoup import BeautifulSoup
 
 def parse_president():
-    url = "http://electionstats.state.ma.us/elections/search/year_from:2018/year_to:2018/office_id:1/stage:Primaries"
+    url = "http://electionstats.state.ma.us/elections/search/year_from:2018/year_to:2018/office_id:8/stage:Primaries"
     r = requests.get(url)
     soup = BeautifulSoup(r.text)
     president_candidates = []
