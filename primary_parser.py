@@ -1,11 +1,11 @@
  # -*- coding: utf-8 -*-
 
-import unicodecsv as csv
+import csv
 import requests
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 
-def parse_president():
-    url = "http://electionstats.state.ma.us/elections/search/year_from:2018/year_to:2018/office_id:8/stage:Primaries"
+def parse_president(year):
+    url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:1/stage:Primaries"
     r = requests.get(url)
     soup = BeautifulSoup(r.text)
     president_candidates = []
@@ -23,18 +23,20 @@ def parse_president():
 
     final_cands = {}
     final_cands['All Others'] = None
+    final_cands['Blanks'] = None
     final_cands['Blank Votes'] = None
     final_cands['No Preference'] = None
     final_cands['Total Votes Cast'] = None
     for cand in president_candidates:
         if cand != []:
-            final_cands[cand[0].keys()[0]] = cand[0][cand[0].keys()[0]]
+            final_cands[list(cand[0].keys())[0]] = cand[0][list(cand[0].keys())[0]]
 
     with requests.Session() as s:
         for link in election_links:
             download = s.get(link)
             decoded_content = download.content.decode('utf-8')
             reader = csv.DictReader(decoded_content.splitlines(), delimiter=',')
+            next(reader)
             last_party = None
             for row in reader:
                 cols = [x for x in row.keys() if x not in ['City/Town', 'Ward', 'Pct']]
@@ -45,8 +47,8 @@ def parse_president():
                     results.append([row['City/Town'], row['Ward'], row['Pct'], 'President', None, party, col.replace('/', ' and'), int(row[col].replace(',',''))])
                     last_party = party
 
-def parse_governor():
-    url = "http://electionstats.state.ma.us/elections/search/year_from:2018/year_to:2018/office_id:3/stage:Primaries/show_details:1"
+def parse_governor(year):
+    url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:3/stage:Primaries/show_details:1"
     r = requests.get(url)
     soup = BeautifulSoup(r.text)
     president_candidates = []
@@ -69,18 +71,20 @@ def parse_governor():
 
     final_cands = {}
     final_cands['All Others'] = None
+    final_cands['Blanks'] = None
     final_cands['Blank Votes'] = None
     final_cands['No Preference'] = None
     final_cands['Total Votes Cast'] = None
     for cand in president_candidates:
         if cand != []:
-            final_cands[cand[0].keys()[0]] = cand[0][cand[0].keys()[0]]
+            final_cands[list(cand[0].keys())[0]] = cand[0][list(cand[0].keys())[0]]
 
     with requests.Session() as s:
         for link in election_links:
             download = s.get(link)
             decoded_content = download.content.decode('utf-8')
             reader = csv.DictReader(decoded_content.splitlines(), delimiter=',')
+            next(reader)
             last_party = None
             for row in reader:
                 cols = [x for x in row.keys() if x not in ['City/Town', 'Ward', 'Pct']]
@@ -91,8 +95,8 @@ def parse_governor():
                     results.append([row['City/Town'], row['Ward'], row['Pct'], 'Governor', None, party, col.replace('/', ' and'), int(row[col].replace(',',''))])
                     last_party = party
 
-def parse_us_senate():
-    url = "http://electionstats.state.ma.us/elections/search/year_from:2018/year_to:2018/office_id:6/stage:Primaries"
+def parse_us_senate(year):
+    url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:6/stage:Primaries"
     r = requests.get(url)
     soup = BeautifulSoup(r.text)
     state_house_candidates = []
@@ -111,17 +115,19 @@ def parse_us_senate():
 
     final_cands = {}
     final_cands['All Others'] = None
+    final_cands['Blanks'] = None
     final_cands['Blank Votes'] = None
     final_cands['Total Votes Cast'] = None
     for cand in state_house_candidates:
         if cand != []:
-            final_cands[cand[0].keys()[0]] = cand[0][cand[0].keys()[0]]
+            final_cands[list(cand[0].keys())[0]] = cand[0][list(cand[0].keys())[0]]
 
     with requests.Session() as s:
         for link in election_links:
             download = s.get(link)
             decoded_content = download.content.decode('utf-8')
             reader = csv.DictReader(decoded_content.splitlines(), delimiter=',')
+            next(reader)
             last_party = None
             for row in reader:
                 cols = [x for x in row.keys() if x not in ['City/Town', 'Ward', 'Pct']]
@@ -132,8 +138,8 @@ def parse_us_senate():
                     results.append([row['City/Town'], row['Ward'], row['Pct'], 'U.S. Senate', None, party, col, int(row[col].replace(',',''))])
                     last_party = party
 
-def parse_secretary():
-    url = "http://electionstats.state.ma.us/elections/search/year_from:2018/year_to:2018/office_id:45/stage:Primaries"
+def parse_secretary(year):
+    url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:45/stage:Primaries"
     r = requests.get(url)
     soup = BeautifulSoup(r.text)
     state_house_candidates = []
@@ -152,17 +158,19 @@ def parse_secretary():
 
     final_cands = {}
     final_cands['All Others'] = None
+    final_cands['Blanks'] = None
     final_cands['Blank Votes'] = None
     final_cands['Total Votes Cast'] = None
     for cand in state_house_candidates:
         if cand != []:
-            final_cands[cand[0].keys()[0]] = cand[0][cand[0].keys()[0]]
+            final_cands[list(cand[0].keys())[0]] = cand[0][list(cand[0].keys())[0]]
 
     with requests.Session() as s:
         for link in election_links:
             download = s.get(link)
             decoded_content = download.content.decode('utf-8')
             reader = csv.DictReader(decoded_content.splitlines(), delimiter=',')
+            next(reader)
             last_party = None
             for row in reader:
                 cols = [x for x in row.keys() if x not in ['City/Town', 'Ward', 'Pct']]
@@ -173,8 +181,8 @@ def parse_secretary():
                     results.append([row['City/Town'], row['Ward'], row['Pct'], 'Secretary', None, party, col, int(row[col].replace(',',''))])
                     last_party = party
 
-def parse_treasurer():
-    url = "http://electionstats.state.ma.us/elections/search/year_from:2018/year_to:2018/office_id:53/stage:Primaries"
+def parse_treasurer(year):
+    url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:53/stage:Primaries"
     r = requests.get(url)
     soup = BeautifulSoup(r.text)
     state_house_candidates = []
@@ -193,17 +201,19 @@ def parse_treasurer():
 
     final_cands = {}
     final_cands['All Others'] = None
+    final_cands['Blanks'] = None
     final_cands['Blank Votes'] = None
     final_cands['Total Votes Cast'] = None
     for cand in state_house_candidates:
         if cand != []:
-            final_cands[cand[0].keys()[0]] = cand[0][cand[0].keys()[0]]
+            final_cands[list(cand[0].keys())[0]] = cand[0][list(cand[0].keys())[0]]
 
     with requests.Session() as s:
         for link in election_links:
             download = s.get(link)
             decoded_content = download.content.decode('utf-8')
             reader = csv.DictReader(decoded_content.splitlines(), delimiter=',')
+            next(reader)
             last_party = None
             for row in reader:
                 cols = [x for x in row.keys() if x not in ['City/Town', 'Ward', 'Pct']]
@@ -214,8 +224,8 @@ def parse_treasurer():
                     results.append([row['City/Town'], row['Ward'], row['Pct'], 'Treasurer', None, party, col, int(row[col].replace(',',''))])
                     last_party = party
 
-def parse_auditor():
-    url = "http://electionstats.state.ma.us/elections/search/year_from:2018/year_to:2018/office_id:90/stage:Primaries"
+def parse_auditor(year):
+    url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:90/stage:Primaries"
     r = requests.get(url)
     soup = BeautifulSoup(r.text)
     state_house_candidates = []
@@ -234,17 +244,19 @@ def parse_auditor():
 
     final_cands = {}
     final_cands['All Others'] = None
+    final_cands['Blanks'] = None
     final_cands['Blank Votes'] = None
     final_cands['Total Votes Cast'] = None
     for cand in state_house_candidates:
         if cand != []:
-            final_cands[cand[0].keys()[0]] = cand[0][cand[0].keys()[0]]
+            final_cands[list(cand[0].keys())[0]] = cand[0][list(cand[0].keys())[0]]
 
     with requests.Session() as s:
         for link in election_links:
             download = s.get(link)
             decoded_content = download.content.decode('utf-8')
             reader = csv.DictReader(decoded_content.splitlines(), delimiter=',')
+            next(reader)
             last_party = None
             for row in reader:
                 cols = [x for x in row.keys() if x not in ['City/Town', 'Ward', 'Pct']]
@@ -255,8 +267,8 @@ def parse_auditor():
                     results.append([row['City/Town'], row['Ward'], row['Pct'], 'Auditor', None, party, col, int(row[col].replace(',',''))])
                     last_party = party
 
-def parse_attorney_general():
-    url = "http://electionstats.state.ma.us/elections/search/year_from:2018/year_to:2018/office_id:12/stage:Primaries"
+def parse_attorney_general(year):
+    url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:12/stage:Primaries"
     r = requests.get(url)
     soup = BeautifulSoup(r.text)
     state_house_candidates = []
@@ -275,17 +287,19 @@ def parse_attorney_general():
 
     final_cands = {}
     final_cands['All Others'] = None
+    final_cands['Blanks'] = None
     final_cands['Blank Votes'] = None
     final_cands['Total Votes Cast'] = None
     for cand in state_house_candidates:
         if cand != []:
-            final_cands[cand[0].keys()[0]] = cand[0][cand[0].keys()[0]]
+            final_cands[list(cand[0].keys())[0]] = cand[0][list(cand[0].keys())[0]]
 
     with requests.Session() as s:
         for link in election_links:
             download = s.get(link)
             decoded_content = download.content.decode('utf-8')
             reader = csv.DictReader(decoded_content.splitlines(), delimiter=',')
+            next(reader)
             last_party = None
             for row in reader:
                 cols = [x for x in row.keys() if x not in ['City/Town', 'Ward', 'Pct']]
@@ -296,8 +310,8 @@ def parse_attorney_general():
                     results.append([row['City/Town'], row['Ward'], row['Pct'], 'Attorney General', None, party, col, int(row[col].replace(',',''))])
                     last_party = party
 
-def parse_council():
-    url = "http://electionstats.state.ma.us/elections/search/year_from:2018/year_to:2018/office_id:529/stage:Primaries"
+def parse_council(year):
+    url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:529/stage:Primaries"
     r = requests.get(url)
     soup = BeautifulSoup(r.text)
     state_house_candidates = []
@@ -320,11 +334,12 @@ def parse_council():
 
     final_cands = {}
     final_cands['All Others'] = None
+    final_cands['Blanks'] = None
     final_cands['Blank Votes'] = None
     final_cands['Total Votes Cast'] = None
     for cand in state_house_candidates:
         if cand != []:
-            final_cands[cand[0].keys()[0]] = cand[0][cand[0].keys()[0]]
+            final_cands[list(cand[0].keys())[0]] = cand[0][list(cand[0].keys())[0]]
 
     with requests.Session() as s:
         for link in election_links:
@@ -332,6 +347,7 @@ def parse_council():
             district = districts[link]
             decoded_content = download.content.decode('utf-8')
             reader = csv.DictReader(decoded_content.splitlines(), delimiter=',')
+            next(reader)
             last_party = None
             for row in reader:
                 cols = [x for x in row.keys() if x not in ['City/Town', 'Ward', 'Pct']]
@@ -342,8 +358,8 @@ def parse_council():
                     results.append([row['City/Town'], row['Ward'], row['Pct'], "Governor's Council", district, party, col, int(row[col].replace(',',''))])
                     last_party = party
 
-def parse_us_house():
-    url = "http://electionstats.state.ma.us/elections/search/year_from:2018/year_to:2018/office_id:5/stage:Primaries"
+def parse_us_house(year):
+    url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:5/stage:Primaries"
     r = requests.get(url)
     soup = BeautifulSoup(r.text)
     state_house_candidates = []
@@ -366,11 +382,12 @@ def parse_us_house():
 
     final_cands = {}
     final_cands['All Others'] = None
+    final_cands['Blanks'] = None
     final_cands['Blank Votes'] = None
     final_cands['Total Votes Cast'] = None
     for cand in state_house_candidates:
         if cand != []:
-            final_cands[cand[0].keys()[0]] = cand[0][cand[0].keys()[0]]
+            final_cands[list(cand[0].keys())[0]] = cand[0][list(cand[0].keys())[0]]
 
     with requests.Session() as s:
         for link in election_links:
@@ -378,6 +395,7 @@ def parse_us_house():
             district = districts[link]
             decoded_content = download.content.decode('utf-8')
             reader = csv.DictReader(decoded_content.splitlines(), delimiter=',')
+            next(reader)
             last_party = None
             for row in reader:
                 cols = [x for x in row.keys() if x not in ['City/Town', 'Ward', 'Pct']]
@@ -388,10 +406,10 @@ def parse_us_house():
                     results.append([row['City/Town'], row['Ward'], row['Pct'], "U.S. House", district, party, col, int(row[col].replace(',',''))])
                     last_party = party
 
-def parse_state_senate():
-    url = "http://electionstats.state.ma.us/elections/search/year_from:2018/year_to:2018/office_id:9/stage:Primaries"
+def parse_state_senate(year):
+    url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:9/stage:Primaries"
     r = requests.get(url)
-    soup = BeautifulSoup(r.text.encode('utf-8'))
+    soup = BeautifulSoup(r.text)
     state_senate_candidates = []
     election_links = []
     districts = {}
@@ -412,18 +430,20 @@ def parse_state_senate():
 
     final_cands = {}
     final_cands['All Others'] = None
+    final_cands['Blanks'] = None
     final_cands['Blank Votes'] = None
     final_cands['Total Votes Cast'] = None
     for cand in state_senate_candidates:
         if cand != []:
-            final_cands[cand[0].keys()[0]] = cand[0][cand[0].keys()[0]]
+            final_cands[list(cand[0].keys())[0]] = cand[0][list(cand[0].keys())[0]]
 
     with requests.Session() as s:
         for link in election_links:
             download = s.get(link)
             district = districts[link]
-            decoded_content = download.content
-            reader = csv.DictReader(decoded_content.splitlines(), delimiter=',', encoding='utf-8')
+            decoded_content = download.content.decode('utf-8')
+            reader = csv.DictReader(decoded_content.splitlines(), delimiter=',')
+            next(reader)
             last_party = None
             for row in reader:
                 cols = [x for x in row.keys() if x not in ['City/Town', 'Ward', 'Pct']]
@@ -437,8 +457,8 @@ def parse_state_senate():
                     results.append([row['City/Town'], row['Ward'], row['Pct'], "State Senate", district, party, col, int(row[col].replace(',',''))])
                     last_party = party
 
-def parse_state_house():
-    url = "http://electionstats.state.ma.us/elections/search/year_from:2018/year_to:2018/office_id:8/stage:Primaries"
+def parse_state_house(year):
+    url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:8/stage:Primaries"
     r = requests.get(url)
     soup = BeautifulSoup(r.text)
     state_house_candidates = []
@@ -462,18 +482,20 @@ def parse_state_house():
 
     final_cands = {}
     final_cands['All Others'] = None
+    final_cands['Blanks'] = None
     final_cands['Blank Votes'] = None
     final_cands['Total Votes Cast'] = None
     for cand in state_house_candidates:
         if cand != []:
-            final_cands[cand[0].keys()[0]] = cand[0][cand[0].keys()[0]]
+            final_cands[list(cand[0].keys())[0]] = cand[0][list(cand[0].keys())[0]]
 
     with requests.Session() as s:
         for link in election_links:
             download = s.get(link)
             district = districts[link]
-            decoded_content = download.content
-            reader = csv.DictReader(decoded_content.splitlines(), delimiter=',', encoding='utf-8')
+            decoded_content = download.content.decode('utf-8')
+            reader = csv.DictReader(decoded_content.splitlines(), delimiter=',')
+            next(reader)
             last_party = None
             for row in reader:
                 cols = [x for x in row.keys() if x not in ['City/Town', 'Ward', 'Pct']]
@@ -483,25 +505,33 @@ def parse_state_house():
                     if not party:
                         party = last_party
                     if votes is None:
-                        print district
+                        print(district)
                     results.append([row['City/Town'], row['Ward'], row['Pct'], "State House", district, party, col, int(votes.replace(',',''))])
                     last_party = party
 
 if __name__ == "__main__":
     results = []
-#    parse_president()
-    parse_us_senate()
-    parse_governor()
-    parse_secretary()
-    parse_treasurer()
-    parse_auditor()
-    parse_attorney_general()
-    parse_council()
-    parse_us_house()
-    parse_state_senate()
-    parse_state_house()
+    year = "2020"
+    parse_president(year)
     results = [list(x) for x in set(tuple(x) for x in results)]
-    with open('2018/20180904__ma__primary__precinct.csv','wb') as csvfile:
-        csvwriter = csv.writer(csvfile, encoding='utf-8')
+    with open(year + '/' + year + '0303__ma__primary__president__precinct.csv' ,'w') as csvfile:
+        csvwriter = csv.writer(csvfile)
+        csvwriter.writerow(['town', 'ward', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'])
+        csvwriter.writerows(results)
+
+    results = []
+    parse_us_senate(year)
+    parse_governor(year)
+    parse_secretary(year)
+    parse_treasurer(year)
+    parse_auditor(year)
+    parse_attorney_general(year)
+    parse_council(year)
+    parse_us_house(year)
+    parse_state_senate(year)
+    parse_state_house(year)
+    results = [list(x) for x in set(tuple(x) for x in results)]
+    with open(year + '/' + year + '0901__ma__primary__precinct.csv' ,'w') as csvfile:
+        csvwriter = csv.writer(csvfile)
         csvwriter.writerow(['town', 'ward', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'])
         csvwriter.writerows(results)
