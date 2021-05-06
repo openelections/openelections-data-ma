@@ -82,8 +82,8 @@ Dukes,Oak Bluffs,Oak Bluffs,President,,Barack Obama,D,1969
 Dukes,Tisbury,Tisbury,President,,Barack Obama,D,1845
 Dukes,West Tisbury,West Tisbury,President,,Barack Obama,D,1573
 Dukes,,,President,,Barack Obama,D,7978
-Nantucket,Nantucket ,Nantucket ,President,,Barack Obama,D,3830
-Nantucket,Nantucket ,,President,,Barack Obama,D,3830
+Nantucket,Nantucket,Nantucket,President,,Barack Obama,D,3830
+Nantucket,Nantucket,,President,,Barack Obama,D,3830
 Barnstable,Barnstable,Barnstable 01,President,,Mitt Romney,R,1233
 Barnstable,Barnstable,Barnstable 02,President,,Mitt Romney,R,1033
 Barnstable,Barnstable,Barnstable 03,President,,Mitt Romney,R,649
@@ -167,8 +167,8 @@ Dukes,Oak Bluffs,Oak Bluffs,President,,Mitt Romney,R,796
 Dukes,Tisbury,Tisbury,President,,Mitt Romney,R,595
 Dukes,West Tisbury,West Tisbury,President,,Mitt Romney,R,373
 Dukes,,,President,,Mitt Romney,R,2792
-Nantucket,Nantucket ,Nantucket ,President,,Mitt Romney,R,2187
-Nantucket,Nantucket ,,President,,Mitt Romney,R,2187
+Nantucket,Nantucket,Nantucket,President,,Mitt Romney,R,2187
+Nantucket,Nantucket,,President,,Mitt Romney,R,2187
 Barnstable,Barnstable,Barnstable 01,President,,Gary Johnson,LBT,21
 Barnstable,Barnstable,Barnstable 02,President,,Gary Johnson,LBT,11
 Barnstable,Barnstable,Barnstable 03,President,,Gary Johnson,LBT,12
@@ -252,8 +252,8 @@ Dukes,Oak Bluffs,,President,,Gary Johnson,LBT,15
 Dukes,Tisbury,,President,,Gary Johnson,LBT,16
 Dukes,West Tisbury,,President,,Gary Johnson,LBT,17
 Dukes,,,President,,Gary Johnson,LBT,80
-Nantucket,Nantucket ,Nantucket ,President,,Gary Johnson,LBT,60
-Nantucket,Nantucket ,,President,,Gary Johnson,LBT,60
+Nantucket,Nantucket,Nantucket,President,,Gary Johnson,LBT,60
+Nantucket,Nantucket,,President,,Gary Johnson,LBT,60
 Barnstable,Barnstable,Barnstable 01,President,,Jill Stein,GRN,13
 Barnstable,Barnstable,Barnstable 02,President,,Jill Stein,GRN,10
 Barnstable,Barnstable,Barnstable 03,President,,Jill Stein,GRN,12
@@ -337,8 +337,8 @@ Dukes,Oak Bluffs,,President,,Jill Stein,GRN,16
 Dukes,Tisbury,,President,,Jill Stein,GRN,29
 Dukes,West Tisbury,,President,,Jill Stein,GRN,16
 Dukes,,,President,,Jill Stein,GRN,90
-Nantucket,Nantucket ,Nantucket ,President,,Jill Stein,GRN,24
-Nantucket,Nantucket ,,President,,Jill Stein,GRN,24
+Nantucket,Nantucket,Nantucket,President,,Jill Stein,GRN,24
+Nantucket,Nantucket,,President,,Jill Stein,GRN,24
 Barnstable,Barnstable,Barnstable 01,President,,Write-ins,,0
 Barnstable,Barnstable,Barnstable 02,President,,Write-ins,,0
 Barnstable,Barnstable,Barnstable 03,President,,Write-ins,,0
@@ -422,8 +422,8 @@ Dukes,Oak Bluffs,,President,,Write-ins,,2
 Dukes,Tisbury,,President,,Write-ins,,11
 Dukes,West Tisbury,,President,,Write-ins,,6
 Dukes,,,President,,Write-ins,,28
-Nantucket,Nantucket ,Nantucket ,President,,Write-ins,,19
-Nantucket,Nantucket ,,President,,Write-ins,,19
+Nantucket,Nantucket,Nantucket,President,,Write-ins,,19
+Nantucket,Nantucket,,President,,Write-ins,,19
 Barnstable,Barnstable,Barnstable 01,President,,Blanks,,9
 Barnstable,Barnstable,Barnstable 02,President,,Blanks,,7
 Barnstable,Barnstable,Barnstable 03,President,,Blanks,,10
@@ -507,8 +507,8 @@ Dukes,Oak Bluffs,,President,,Blanks,,10
 Dukes,Tisbury,,President,,Blanks,,27
 Dukes,West Tisbury,,President,,Blanks,,5
 Dukes,,,President,,Blanks,,61
-Nantucket,Nantucket ,Nantucket ,President,,Blanks,,12
-Nantucket,Nantucket ,,President,,Blanks,,12
+Nantucket,Nantucket,Nantucket,President,,Blanks,,12
+Nantucket,Nantucket,,President,,Blanks,,12
 Barnstable,Barnstable,Barnstable 01,U.S. Senate,,Elizabeth Warren,D,1102
 Barnstable,Barnstable,Barnstable 02,U.S. Senate,,Elizabeth Warren,D,882
 Barnstable,Barnstable,Barnstable 03,U.S. Senate,,Elizabeth Warren,D,824
@@ -592,8 +592,8 @@ Dukes,Oak Bluffs,,U.S. Senate,,Elizabeth Warren,D,1821
 Dukes,Tisbury,,U.S. Senate,,Elizabeth Warren,D,1731
 Dukes,West Tisbury,,U.S. Senate,,Elizabeth Warren,D,1489
 Dukes,,,U.S. Senate,,Elizabeth Warren,D,7387
-Nantucket,Nantucket ,Nantucket ,U.S. Senate,,Elizabeth Warren,D,3435
-Nantucket,Nantucket ,,U.S. Senate,,Elizabeth Warren,D,3435
+Nantucket,Nantucket,Nantucket,U.S. Senate,,Elizabeth Warren,D,3435
+Nantucket,Nantucket,,U.S. Senate,,Elizabeth Warren,D,3435
 Barnstable,Barnstable,Barnstable 01,U.S. Senate,,Scott Brown,R,1401
 Barnstable,Barnstable,Barnstable 02,U.S. Senate,,Scott Brown,R,1183
 Barnstable,Barnstable,Barnstable 03,U.S. Senate,,Scott Brown,R,825
@@ -677,8 +677,8 @@ Dukes,Oak Bluffs,,U.S. Senate,,Scott Brown,R,959
 Dukes,Tisbury,,U.S. Senate,,Scott Brown,R,747
 Dukes,West Tisbury,,U.S. Senate,,Scott Brown,R,486
 Dukes,,,U.S. Senate,,Scott Brown,R,3520
-Nantucket,Nantucket ,Nantucket ,U.S. Senate,,Scott Brown,R,2653
-Nantucket,Nantucket ,,U.S. Senate,,Scott Brown,R,2653
+Nantucket,Nantucket,Nantucket,U.S. Senate,,Scott Brown,R,2653
+Nantucket,Nantucket,,U.S. Senate,,Scott Brown,R,2653
 Barnstable,Barnstable,Barnstable 01,U.S. Senate,,Write-ins,,0
 Barnstable,Barnstable,Barnstable 02,U.S. Senate,,Write-ins,,0
 Barnstable,Barnstable,Barnstable 03,U.S. Senate,,Write-ins,,0
@@ -762,8 +762,8 @@ Dukes,Oak Bluffs,,U.S. Senate,,Write-ins,,1
 Dukes,Tisbury,,U.S. Senate,,Write-ins,,1
 Dukes,West Tisbury,,U.S. Senate,,Write-ins,,2
 Dukes,,,U.S. Senate,,Write-ins,,5
-Nantucket,Nantucket ,Nantucket ,U.S. Senate,,Write-ins,,3
-Nantucket,Nantucket ,,U.S. Senate,,Write-ins,,3
+Nantucket,Nantucket,Nantucket,U.S. Senate,,Write-ins,,3
+Nantucket,Nantucket,,U.S. Senate,,Write-ins,,3
 Barnstable,Barnstable,Barnstable 01,U.S. Senate,,Blanks,,21
 Barnstable,Barnstable,Barnstable 02,U.S. Senate,,Blanks,,13
 Barnstable,Barnstable,Barnstable 03,U.S. Senate,,Blanks,,8
@@ -847,8 +847,8 @@ Dukes,Oak Bluffs,,U.S. Senate,,Blanks,,27
 Dukes,Tisbury,,U.S. Senate,,Blanks,,44
 Dukes,West Tisbury,,U.S. Senate,,Blanks,,13
 Dukes,,,U.S. Senate,,Blanks,,117
-Nantucket,Nantucket ,Nantucket ,U.S. Senate,,Blanks,,41
-Nantucket,Nantucket ,,U.S. Senate,,Blanks,,41
+Nantucket,Nantucket,Nantucket,U.S. Senate,,Blanks,,41
+Nantucket,Nantucket,,U.S. Senate,,Blanks,,41
 Barnstable,Barnstable,Barnstable 01,U.S. House,9,William Keating,D,1345
 Barnstable,Barnstable,Barnstable 02,U.S. House,9,William Keating,D,1106
 Barnstable,Barnstable,Barnstable 03,U.S. House,9,William Keating,D,996
@@ -932,8 +932,8 @@ Dukes,Oak Bluffs,,U.S. House,9,William Keating,D,1878
 Dukes,Tisbury,,U.S. House,9,William Keating,D,1788
 Dukes,West Tisbury,,U.S. House,9,William Keating,D,1515
 Dukes,,,U.S. House,9,William Keating,D,7701
-Nantucket,Nantucket ,Nantucket ,U.S. House,9,William Keating,D,3861
-Nantucket,Nantucket ,,U.S. House,9,William Keating,D,3861
+Nantucket,Nantucket,Nantucket,U.S. House,9,William Keating,D,3861
+Nantucket,Nantucket,,U.S. House,9,William Keating,D,3861
 Barnstable,Barnstable,Barnstable 01,U.S. House,9,Christopher Sheldon,R,907
 Barnstable,Barnstable,Barnstable 02,U.S. House,9,Christopher Sheldon,R,751
 Barnstable,Barnstable,Barnstable 03,U.S. House,9,Christopher Sheldon,R,449
@@ -1017,8 +1017,8 @@ Dukes,Oak Bluffs,,U.S. House,9,Christopher Sheldon,R,598
 Dukes,Tisbury,,U.S. House,9,Christopher Sheldon,R,469
 Dukes,West Tisbury,,U.S. House,9,Christopher Sheldon,R,308
 Dukes,,,U.S. House,9,Christopher Sheldon,R,2177
-Nantucket,Nantucket ,Nantucket ,U.S. House,9,Christopher Sheldon,R,1651
-Nantucket,Nantucket ,,U.S. House,9,Christopher Sheldon,R,1651
+Nantucket,Nantucket,Nantucket,U.S. House,9,Christopher Sheldon,R,1651
+Nantucket,Nantucket,,U.S. House,9,Christopher Sheldon,R,1651
 Barnstable,Barnstable,Barnstable 01,U.S. House,9,Daniel Botelho,IND,145
 Barnstable,Barnstable,Barnstable 02,U.S. House,9,Daniel Botelho,IND,128
 Barnstable,Barnstable,Barnstable 03,U.S. House,9,Daniel Botelho,IND,112
@@ -1102,8 +1102,8 @@ Dukes,Oak Bluffs,,U.S. House,9,Daniel Botelho,IND,127
 Dukes,Tisbury,,U.S. House,9,Daniel Botelho,IND,109
 Dukes,West Tisbury,,U.S. House,9,Daniel Botelho,IND,67
 Dukes,,,U.S. House,9,Daniel Botelho,IND,468
-Nantucket,Nantucket ,Nantucket ,U.S. House,9,Daniel Botelho,IND,274
-Nantucket,Nantucket ,,U.S. House,9,Daniel Botelho,IND,274
+Nantucket,Nantucket,Nantucket,U.S. House,9,Daniel Botelho,IND,274
+Nantucket,Nantucket,,U.S. House,9,Daniel Botelho,IND,274
 Barnstable,Barnstable,Barnstable 01,U.S. House,9,Write-ins,,0
 Barnstable,Barnstable,Barnstable 02,U.S. House,9,Write-ins,,0
 Barnstable,Barnstable,Barnstable 03,U.S. House,9,Write-ins,,0
@@ -1187,8 +1187,8 @@ Dukes,Oak Bluffs,,U.S. House,9,Write-ins,,4
 Dukes,Tisbury,,U.S. House,9,Write-ins,,2
 Dukes,West Tisbury,,U.S. House,9,Write-ins,,4
 Dukes,,,U.S. House,9,Write-ins,,14
-Nantucket,Nantucket ,Nantucket ,U.S. House,9,Write-ins,,25
-Nantucket,Nantucket ,,U.S. House,9,Write-ins,,25
+Nantucket,Nantucket,Nantucket,U.S. House,9,Write-ins,,25
+Nantucket,Nantucket,,U.S. House,9,Write-ins,,25
 Barnstable,Barnstable,Barnstable 01,U.S. House,9,Blanks,,127
 Barnstable,Barnstable,Barnstable 02,U.S. House,9,Blanks,,93
 Barnstable,Barnstable,Barnstable 03,U.S. House,9,Blanks,,100
@@ -1272,8 +1272,8 @@ Dukes,Oak Bluffs,,U.S. House,9,Blanks,,201
 Dukes,Tisbury,,U.S. House,9,Blanks,,155
 Dukes,West Tisbury,,U.S. House,9,Blanks,,96
 Dukes,,,U.S. House,9,Blanks,,669
-Nantucket,Nantucket ,Nantucket ,U.S. House,9,Blanks,,334
-Nantucket,Nantucket ,,U.S. House,9,Blanks,,335
+Nantucket,Nantucket,Nantucket,U.S. House,9,Blanks,,334
+Nantucket,Nantucket,,U.S. House,9,Blanks,,335
 Barnstable,Barnstable,Barnstable 01,State Senate,C&I,Daniel Wolf,D,1740
 Barnstable,Barnstable,Barnstable 02,State Senate,C&I,Daniel Wolf,D,1474
 Barnstable,Barnstable,Barnstable 03,State Senate,C&I,Daniel Wolf,D,1227
@@ -1357,8 +1357,8 @@ Dukes,Oak Bluffs,,State Senate,C&I,Daniel Wolf,D,2057
 Dukes,Tisbury,,State Senate,C&I,Daniel Wolf,D,1941
 Dukes,West Tisbury,,State Senate,C&I,Daniel Wolf,D,1573
 Dukes,,,State Senate,C&I,Daniel Wolf,D,8340
-Nantucket,Nantucket ,Nantucket ,State Senate,C&I,Daniel Wolf,D,4754
-Nantucket,Nantucket ,,State Senate,C&I,Daniel Wolf,D,4754
+Nantucket,Nantucket,Nantucket,State Senate,C&I,Daniel Wolf,D,4754
+Nantucket,Nantucket,,State Senate,C&I,Daniel Wolf,D,4754
 Barnstable,Bourne,Bourne 1,State Senate,PBA,Thomas Keyes,R,586
 Barnstable,Bourne,Bourne 2,State Senate,PBA,Thomas Keyes,R,835
 Barnstable,Bourne,Bourne 3,State Senate,PBA,Thomas Keyes,R,319
@@ -1467,7 +1467,7 @@ Dukes,,,State Senate,C&I,Write-ins,,16
 Dukes,,,State Senate,C&I,Write-ins,,6
 Dukes,,,State Senate,C&I,Write-ins,,3
 Dukes,,,State Senate,C&I,Write-ins,,44
-Nantucket,Nantucket,Nantucket ,State Senate,C&I,Write-ins,,56
+Nantucket,Nantucket,Nantucket,State Senate,C&I,Write-ins,,56
 Nantucket,Nantucket,,State Senate,C&I,Write-ins,,56
 Barnstable,Barnstable,Barnstable 01,State Senate,C&I,Blanks,,784
 Barnstable,Barnstable,Barnstable 02,State Senate,C&I,Blanks,,604
@@ -1552,7 +1552,7 @@ Dukes,,,State Senate,C&I,Blanks,,735
 Dukes,,,State Senate,C&I,Blanks,,576
 Dukes,,,State Senate,C&I,Blanks,,414
 Dukes,,,State Senate,C&I,Blanks,,2645
-Nantucket,,Nantucket ,State Senate,C&I,Blanks,,1335
+Nantucket,,Nantucket,State Senate,C&I,Blanks,,1335
 Nantucket,,,State Senate,C&I,Blanks,,1322
 Barnstable,,Barnstable 01,State House,BA1,Cleon Turner,D,1656
 Barnstable,,Barnstable 02,State House,BA2,Brian Mannal,D,1472
@@ -1622,7 +1622,7 @@ Dukes,,,State House,BDN,Tim Madden,D,2086
 Dukes,,,State House,BDN,Tim Madden,D,1964
 Dukes,,,State House,BDN,Tim Madden,D,1572
 Dukes,,,State House,BDN,Tim Madden,D,8412
-Nantucket,,Nantucket ,State House,BDN,Tim Madden,D,5160
+Nantucket,,Nantucket,State House,BDN,Tim Madden,D,5160
 Nantucket,,,State House,BDN,Tim Madden,D,5160
 Barnstable,,Barnstable 11,State House,BA5,Randy Hunt,R,1291
 Barnstable,,Barnstable 12,State House,BA5,Randy Hunt,R,1112
@@ -1738,7 +1738,7 @@ Dukes,,,State House,BDN,Write-ins,,15
 Dukes,,,State House,BDN,Write-ins,,7
 Dukes,,,State House,BDN,Write-ins,,4
 Dukes,,,State House,BDN,Write-ins,,43
-Nantucket,,Nantucket ,State House,BDN,Write-ins,,44
+Nantucket,,Nantucket,State House,BDN,Write-ins,,44
 Nantucket,,,State House,BDN,Write-ins,,58
 Barnstable,,Barnstable 01,State House,BA1,Blanks,,868
 Barnstable,,Barnstable 02,State House,BA2,Blanks,,598
@@ -1823,7 +1823,7 @@ Dukes,,,State House,BDN,Blanks,,707
 Dukes,,,State House,BDN,Blanks,,552
 Dukes,,,State House,BDN,Blanks,,414
 Dukes,,,State House,BDN,Blanks,,2574
-Nantucket,,Nantucket ,State House,BDN,Blanks,,941
+Nantucket,,Nantucket,State House,BDN,Blanks,,941
 Nantucket,,,State House,BDN,Blanks,,914
 Berkshire,,Adams 1,President,,Barack Obama,D,525
 Berkshire,,Adams 2,President,,Barack Obama,D,607
@@ -31409,244 +31409,244 @@ Norfolk,,Wrentham 2,President,,Blanks,,3
 Norfolk,,Wrentham 3,President,,Blanks,,3
 Norfolk,,,President,,Blanks,,10
 Norfolk,,,President,,Blanks,,1740
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,1059
-Norfolk,,Bellingham 1,U.S. Senate,,Elizabeth Warren ,D,638
-Norfolk,,Bellingham 2,U.S. Senate,,Elizabeth Warren ,D,802
-Norfolk,,Bellingham 3,U.S. Senate,,Elizabeth Warren ,D,690
-Norfolk,,Bellingham 4,U.S. Senate,,Elizabeth Warren ,D,582
-Norfolk,,Bellingham 4A,U.S. Senate,,Elizabeth Warren ,D,63
-Norfolk,,Bellingham 5,U.S. Senate,,Elizabeth Warren ,D,701
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,3476
-Norfolk,,Braintree 1A,U.S. Senate,,Elizabeth Warren ,D,690
-Norfolk,,Braintree 1B,U.S. Senate,,Elizabeth Warren ,D,626
-Norfolk,,Braintree 2A,U.S. Senate,,Elizabeth Warren ,D,736
-Norfolk,,Braintree 2B,U.S. Senate,,Elizabeth Warren ,D,712
-Norfolk,,Braintree 3A,U.S. Senate,,Elizabeth Warren ,D,754
-Norfolk,,Braintree 3B,U.S. Senate,,Elizabeth Warren ,D,766
-Norfolk,,Braintree 4A,U.S. Senate,,Elizabeth Warren ,D,688
-Norfolk,,Braintree 4B,U.S. Senate,,Elizabeth Warren ,D,654
-Norfolk,,Braintree 5A,U.S. Senate,,Elizabeth Warren ,D,655
-Norfolk,,Braintree 5B,U.S. Senate,,Elizabeth Warren ,D,705
-Norfolk,,Braintree 6A,U.S. Senate,,Elizabeth Warren ,D,778
-Norfolk,,Braintree 6B,U.S. Senate,,Elizabeth Warren ,D,714
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,8478
-Norfolk,,Brookline 01,U.S. Senate,,Elizabeth Warren ,D,1259
-Norfolk,,Brookline 02,U.S. Senate,,Elizabeth Warren ,D,958
-Norfolk,,Brookline 03,U.S. Senate,,Elizabeth Warren ,D,1383
-Norfolk,,Brookline 04,U.S. Senate,,Elizabeth Warren ,D,1254
-Norfolk,,Brookline 05,U.S. Senate,,Elizabeth Warren ,D,1490
-Norfolk,,Brookline 06,U.S. Senate,,Elizabeth Warren ,D,1483
-Norfolk,,Brookline 07,U.S. Senate,,Elizabeth Warren ,D,1309
-Norfolk,,Brookline 08,U.S. Senate,,Elizabeth Warren ,D,1438
-Norfolk,,Brookline 09,U.S. Senate,,Elizabeth Warren ,D,1340
-Norfolk,,Brookline 10,U.S. Senate,,Elizabeth Warren ,D,1274
-Norfolk,,Brookline 11,U.S. Senate,,Elizabeth Warren ,D,1462
-Norfolk,,Brookline 12,U.S. Senate,,Elizabeth Warren ,D,1657
-Norfolk,,Brookline 13,U.S. Senate,,Elizabeth Warren ,D,1314
-Norfolk,,Brookline 14,U.S. Senate,,Elizabeth Warren ,D,1187
-Norfolk,,Brookline 15,U.S. Senate,,Elizabeth Warren ,D,1138
-Norfolk,,Brookline 16,U.S. Senate,,Elizabeth Warren ,D,1122
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,21068
-Norfolk,,Canton 1,U.S. Senate,,Elizabeth Warren ,D,905
-Norfolk,,Canton 2,U.S. Senate,,Elizabeth Warren ,D,1009
-Norfolk,,Canton 3,U.S. Senate,,Elizabeth Warren ,D,907
-Norfolk,,Canton 4,U.S. Senate,,Elizabeth Warren ,D,932
-Norfolk,,Canton 5,U.S. Senate,,Elizabeth Warren ,D,946
-Norfolk,,Canton 6,U.S. Senate,,Elizabeth Warren ,D,925
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,5624
-Norfolk,,Cohasset 1,U.S. Senate,,Elizabeth Warren ,D,929
-Norfolk,,Cohasset 2,U.S. Senate,,Elizabeth Warren ,D,965
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,1894
-Norfolk,,Dedham 1,U.S. Senate,,Elizabeth Warren ,D,1071
-Norfolk,,Dedham 2,U.S. Senate,,Elizabeth Warren ,D,1026
-Norfolk,,Dedham 3,U.S. Senate,,Elizabeth Warren ,D,938
-Norfolk,,Dedham 4,U.S. Senate,,Elizabeth Warren ,D,919
-Norfolk,,Dedham 5,U.S. Senate,,Elizabeth Warren ,D,884
-Norfolk,,Dedham 6,U.S. Senate,,Elizabeth Warren ,D,1025
-Norfolk,,Dedham 7,U.S. Senate,,Elizabeth Warren ,D,852
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,6715
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,1285
-Norfolk,,Foxborough 1,U.S. Senate,,Elizabeth Warren ,D,766
-Norfolk,,Foxborough 2,U.S. Senate,,Elizabeth Warren ,D,836
-Norfolk,,Foxborough 3,U.S. Senate,,Elizabeth Warren ,D,744
-Norfolk,,Foxborough 4,U.S. Senate,,Elizabeth Warren ,D,802
-Norfolk,,Foxborough 5,U.S. Senate,,Elizabeth Warren ,D,665
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,3813
-Norfolk,,Franklin 1,U.S. Senate,,Elizabeth Warren ,D,829
-Norfolk,,Franklin 2,U.S. Senate,,Elizabeth Warren ,D,787
-Norfolk,,Franklin 3,U.S. Senate,,Elizabeth Warren ,D,877
-Norfolk,,Franklin 4,U.S. Senate,,Elizabeth Warren ,D,821
-Norfolk,,Franklin 5,U.S. Senate,,Elizabeth Warren ,D,896
-Norfolk,,Franklin 6,U.S. Senate,,Elizabeth Warren ,D,864
-Norfolk,,Franklin 7,U.S. Senate,,Elizabeth Warren ,D,858
-Norfolk,,Franklin 8,U.S. Senate,,Elizabeth Warren ,D,777
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,6709
-Norfolk,,Holbrook 1,U.S. Senate,,Elizabeth Warren ,D,686
-Norfolk,,Holbrook 2,U.S. Senate,,Elizabeth Warren ,D,628
-Norfolk,,Holbrook 3,U.S. Senate,,Elizabeth Warren ,D,617
-Norfolk,,Holbrook 4,U.S. Senate,,Elizabeth Warren ,D,659
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,2590
-Norfolk,,Medfield 1,U.S. Senate,,Elizabeth Warren ,D,754
-Norfolk,,Medfield 2,U.S. Senate,,Elizabeth Warren ,D,677
-Norfolk,,Medfield 3,U.S. Senate,,Elizabeth Warren ,D,744
-Norfolk,,Medfield 4,U.S. Senate,,Elizabeth Warren ,D,657
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,2832
-Norfolk,,Medway 1,U.S. Senate,,Elizabeth Warren ,D,659
-Norfolk,,Medway 2,U.S. Senate,,Elizabeth Warren ,D,761
-Norfolk,,Medway 3,U.S. Senate,,Elizabeth Warren ,D,739
-Norfolk,,Medway 4,U.S. Senate,,Elizabeth Warren ,D,756
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,2915
-Norfolk,,Millis 1,U.S. Senate,,Elizabeth Warren ,D,654
-Norfolk,,Millis 2,U.S. Senate,,Elizabeth Warren ,D,625
-Norfolk,,Millis 3,U.S. Senate,,Elizabeth Warren ,D,655
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,1934
-Norfolk,,Milton 01,U.S. Senate,,Elizabeth Warren ,D,1209
-Norfolk,,Milton 02,U.S. Senate,,Elizabeth Warren ,D,1136
-Norfolk,,Milton 03,U.S. Senate,,Elizabeth Warren ,D,862
-Norfolk,,Milton 04,U.S. Senate,,Elizabeth Warren ,D,1014
-Norfolk,,Milton 05,U.S. Senate,,Elizabeth Warren ,D,680
-Norfolk,,Milton 06,U.S. Senate,,Elizabeth Warren ,D,741
-Norfolk,,Milton 07,U.S. Senate,,Elizabeth Warren ,D,683
-Norfolk,,Milton 08,U.S. Senate,,Elizabeth Warren ,D,727
-Norfolk,,Milton 09,U.S. Senate,,Elizabeth Warren ,D,622
-Norfolk,,Milton 10,U.S. Senate,,Elizabeth Warren ,D,817
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,8491
-Norfolk,,Needham A,U.S. Senate,,Elizabeth Warren ,D,837
-Norfolk,,Needham B,U.S. Senate,,Elizabeth Warren ,D,899
-Norfolk,,Needham C,U.S. Senate,,Elizabeth Warren ,D,874
-Norfolk,,Needham D,U.S. Senate,,Elizabeth Warren ,D,908
-Norfolk,,Needham E,U.S. Senate,,Elizabeth Warren ,D,962
-Norfolk,,Needham F,U.S. Senate,,Elizabeth Warren ,D,1025
-Norfolk,,Needham G,U.S. Senate,,Elizabeth Warren ,D,767
-Norfolk,,Needham H,U.S. Senate,,Elizabeth Warren ,D,902
-Norfolk,,Needham I,U.S. Senate,,Elizabeth Warren ,D,972
-Norfolk,,Needham J,U.S. Senate,,Elizabeth Warren ,D,908
-Norfolk,,Needham WA,U.S. Senate,,Elizabeth Warren ,D,9054
-Norfolk,,Norfolk 1,U.S. Senate,,Elizabeth Warren ,D,405
-Norfolk,,Norfolk 2,U.S. Senate,,Elizabeth Warren ,D,803
-Norfolk,,Norfolk 3,U.S. Senate,,Elizabeth Warren ,D,673
-Norfolk,,Norfolk WA,U.S. Senate,,Elizabeth Warren ,D,1881
-Norfolk,,Norwood 1,U.S. Senate,,Elizabeth Warren ,D,821
-Norfolk,,Norwood 2,U.S. Senate,,Elizabeth Warren ,D,809
-Norfolk,,Norwood 3,U.S. Senate,,Elizabeth Warren ,D,813
-Norfolk,,Norwood 4,U.S. Senate,,Elizabeth Warren ,D,791
-Norfolk,,Norwood 5,U.S. Senate,,Elizabeth Warren ,D,689
-Norfolk,,Norwood 6,U.S. Senate,,Elizabeth Warren ,D,636
-Norfolk,,Norwood 7,U.S. Senate,,Elizabeth Warren ,D,719
-Norfolk,,Norwood 8,U.S. Senate,,Elizabeth Warren ,D,917
-Norfolk,,Norwood 9,U.S. Senate,,Elizabeth Warren ,D,716
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,6911
-Norfolk,,Plainville 1,U.S. Senate,,Elizabeth Warren ,D,583
-Norfolk,,Plainville 2,U.S. Senate,,Elizabeth Warren ,D,489
-Norfolk,,Plainville 3,U.S. Senate,,Elizabeth Warren ,D,518
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,1590
-Norfolk,,Quincy W1P1,U.S. Senate,,Elizabeth Warren ,D,675
-Norfolk,,Quincy W1P2,U.S. Senate,,Elizabeth Warren ,D,661
-Norfolk,,Quincy W1P3,U.S. Senate,,Elizabeth Warren ,D,806
-Norfolk,,Quincy W1P4,U.S. Senate,,Elizabeth Warren ,D,800
-Norfolk,,Quincy W1P5,U.S. Senate,,Elizabeth Warren ,D,917
-Norfolk,,Quincy W2P1,U.S. Senate,,Elizabeth Warren ,D,724
-Norfolk,,Quincy W2P2,U.S. Senate,,Elizabeth Warren ,D,795
-Norfolk,,Quincy W2P3,U.S. Senate,,Elizabeth Warren ,D,407
-Norfolk,,Quincy W2P3A,U.S. Senate,,Elizabeth Warren ,D,68
-Norfolk,,Quincy W2P4,U.S. Senate,,Elizabeth Warren ,D,609
-Norfolk,,Quincy W2P5,U.S. Senate,,Elizabeth Warren ,D,782
-Norfolk,,Quincy W3P1,U.S. Senate,,Elizabeth Warren ,D,816
-Norfolk,,Quincy W3P2,U.S. Senate,,Elizabeth Warren ,D,723
-Norfolk,,Quincy W3P3,U.S. Senate,,Elizabeth Warren ,D,590
-Norfolk,,Quincy W3P4,U.S. Senate,,Elizabeth Warren ,D,720
-Norfolk,,Quincy W3P5,U.S. Senate,,Elizabeth Warren ,D,627
-Norfolk,,Quincy W4P1,U.S. Senate,,Elizabeth Warren ,D,690
-Norfolk,,Quincy W4P2,U.S. Senate,,Elizabeth Warren ,D,805
-Norfolk,,Quincy W4P3,U.S. Senate,,Elizabeth Warren ,D,732
-Norfolk,,Quincy W4P4,U.S. Senate,,Elizabeth Warren ,D,696
-Norfolk,,Quincy W4P5,U.S. Senate,,Elizabeth Warren ,D,706
-Norfolk,,Quincy W5P1,U.S. Senate,,Elizabeth Warren ,D,721
-Norfolk,,Quincy W5P2,U.S. Senate,,Elizabeth Warren ,D,734
-Norfolk,,Quincy W5P3,U.S. Senate,,Elizabeth Warren ,D,764
-Norfolk,,Quincy W5P4,U.S. Senate,,Elizabeth Warren ,D,655
-Norfolk,,Quincy W5P5,U.S. Senate,,Elizabeth Warren ,D,765
-Norfolk,,Quincy W6P1,U.S. Senate,,Elizabeth Warren ,D,714
-Norfolk,,Quincy W6P2,U.S. Senate,,Elizabeth Warren ,D,529
-Norfolk,,Quincy W6P3,U.S. Senate,,Elizabeth Warren ,D,806
-Norfolk,,Quincy W6P4,U.S. Senate,,Elizabeth Warren ,D,708
-Norfolk,,Quincy W6P5,U.S. Senate,,Elizabeth Warren ,D,835
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,21580
-Norfolk,,Randolph 1,U.S. Senate,,Elizabeth Warren ,D,909
-Norfolk,,Randolph 2,U.S. Senate,,Elizabeth Warren ,D,883
-Norfolk,,Randolph 3,U.S. Senate,,Elizabeth Warren ,D,817
-Norfolk,,Randolph 4,U.S. Senate,,Elizabeth Warren ,D,926
-Norfolk,,Randolph 5,U.S. Senate,,Elizabeth Warren ,D,788
-Norfolk,,Randolph 6,U.S. Senate,,Elizabeth Warren ,D,785
-Norfolk,,Randolph 7,U.S. Senate,,Elizabeth Warren ,D,883
-Norfolk,,Randolph 8,U.S. Senate,,Elizabeth Warren ,D,996
-Norfolk,,Randolph 9,U.S. Senate,,Elizabeth Warren ,D,932
-Norfolk,,Randolph 10,U.S. Senate,,Elizabeth Warren ,D,901
-Norfolk,,Randolph 11,U.S. Senate,,Elizabeth Warren ,D,905
-Norfolk,,Randolph 12,U.S. Senate,,Elizabeth Warren ,D,855
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,10580
-Norfolk,,Sharon 1,U.S. Senate,,Elizabeth Warren ,D,1317
-Norfolk,,Sharon 2,U.S. Senate,,Elizabeth Warren ,D,1067
-Norfolk,,Sharon 3,U.S. Senate,,Elizabeth Warren ,D,1194
-Norfolk,,Sharon 4,U.S. Senate,,Elizabeth Warren ,D,1252
-Norfolk,,Sharon 5,U.S. Senate,,Elizabeth Warren ,D,1026
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,5856
-Norfolk,,Stoughton 1,U.S. Senate,,Elizabeth Warren ,D,1004
-Norfolk,,Stoughton 2,U.S. Senate,,Elizabeth Warren ,D,880
-Norfolk,,Stoughton 3,U.S. Senate,,Elizabeth Warren ,D,839
-Norfolk,,Stoughton 4,U.S. Senate,,Elizabeth Warren ,D,896
-Norfolk,,Stoughton 5,U.S. Senate,,Elizabeth Warren ,D,765
-Norfolk,,Stoughton 6,U.S. Senate,,Elizabeth Warren ,D,1121
-Norfolk,,Stoughton 7,U.S. Senate,,Elizabeth Warren ,D,853
-Norfolk,,Stoughton 8,U.S. Senate,,Elizabeth Warren ,D,708
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,7066
-Norfolk,,Walpole 1,U.S. Senate,,Elizabeth Warren ,D,610
-Norfolk,,Walpole 2,U.S. Senate,,Elizabeth Warren ,D,651
-Norfolk,,Walpole 3,U.S. Senate,,Elizabeth Warren ,D,725
-Norfolk,,Walpole 4,U.S. Senate,,Elizabeth Warren ,D,687
-Norfolk,,Walpole 5,U.S. Senate,,Elizabeth Warren ,D,526
-Norfolk,,Walpole 6,U.S. Senate,,Elizabeth Warren ,D,660
-Norfolk,,Walpole 7,U.S. Senate,,Elizabeth Warren ,D,607
-Norfolk,,Walpole 8,U.S. Senate,,Elizabeth Warren ,D,581
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,5047
-Norfolk,,Wellesley A,U.S. Senate,,Elizabeth Warren ,D,981
-Norfolk,,Wellesley B,U.S. Senate,,Elizabeth Warren ,D,1175
-Norfolk,,Wellesley C,U.S. Senate,,Elizabeth Warren ,D,733
-Norfolk,,Wellesley D,U.S. Senate,,Elizabeth Warren ,D,1155
-Norfolk,,Wellesley E,U.S. Senate,,Elizabeth Warren ,D,954
-Norfolk,,Wellesley F,U.S. Senate,,Elizabeth Warren ,D,635
-Norfolk,,Wellesley G,U.S. Senate,,Elizabeth Warren ,D,887
-Norfolk,,Wellesley H,U.S. Senate,,Elizabeth Warren ,D,950
-Middlesex,,Wellesley WA,U.S. Senate,,Elizabeth Warren ,D,7470
-Norfolk,,Westwood 1,U.S. Senate,,Elizabeth Warren ,D,970
-Norfolk,,Westwood 2,U.S. Senate,,Elizabeth Warren ,D,987
-Norfolk,,Westwood 3,U.S. Senate,,Elizabeth Warren ,D,973
-Norfolk,,Westwood 4,U.S. Senate,,Elizabeth Warren ,D,787
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,3717
-Norfolk,,Weymouth 01,U.S. Senate,,Elizabeth Warren ,D,749
-Norfolk,,Weymouth 02,U.S. Senate,,Elizabeth Warren ,D,803
-Norfolk,,Weymouth 03,U.S. Senate,,Elizabeth Warren ,D,734
-Norfolk,,Weymouth 04,U.S. Senate,,Elizabeth Warren ,D,668
-Norfolk,,Weymouth 05,U.S. Senate,,Elizabeth Warren ,D,706
-Norfolk,,Weymouth 06,U.S. Senate,,Elizabeth Warren ,D,763
-Norfolk,,Weymouth 07,U.S. Senate,,Elizabeth Warren ,D,663
-Norfolk,,Weymouth 08,U.S. Senate,,Elizabeth Warren ,D,740
-Norfolk,,Weymouth 09,U.S. Senate,,Elizabeth Warren ,D,715
-Norfolk,,Weymouth 10,U.S. Senate,,Elizabeth Warren ,D,660
-Norfolk,,Weymouth 11,U.S. Senate,,Elizabeth Warren ,D,711
-Norfolk,,Weymouth 12,U.S. Senate,,Elizabeth Warren ,D,729
-Norfolk,,Weymouth 13,U.S. Senate,,Elizabeth Warren ,D,631
-Norfolk,,Weymouth 14,U.S. Senate,,Elizabeth Warren ,D,637
-Norfolk,,Weymouth 15,U.S. Senate,,Elizabeth Warren ,D,754
-Norfolk,,Weymouth 16,U.S. Senate,,Elizabeth Warren ,D,759
-Norfolk,,Weymouth 17,U.S. Senate,,Elizabeth Warren ,D,636
-Norfolk,,Weymouth 18,U.S. Senate,,Elizabeth Warren ,D,697
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,12755
-Norfolk,,Wrentham 1,U.S. Senate,,Elizabeth Warren ,D,633
-Norfolk,,Wrentham 2,U.S. Senate,,Elizabeth Warren ,D,596
-Norfolk,,Wrentham 3,U.S. Senate,,Elizabeth Warren ,D,650
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,1879
-Norfolk,,,U.S. Senate,,Elizabeth Warren ,D,174269
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,1059
+Norfolk,,Bellingham 1,U.S. Senate,,Elizabeth Warren,D,638
+Norfolk,,Bellingham 2,U.S. Senate,,Elizabeth Warren,D,802
+Norfolk,,Bellingham 3,U.S. Senate,,Elizabeth Warren,D,690
+Norfolk,,Bellingham 4,U.S. Senate,,Elizabeth Warren,D,582
+Norfolk,,Bellingham 4A,U.S. Senate,,Elizabeth Warren,D,63
+Norfolk,,Bellingham 5,U.S. Senate,,Elizabeth Warren,D,701
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,3476
+Norfolk,,Braintree 1A,U.S. Senate,,Elizabeth Warren,D,690
+Norfolk,,Braintree 1B,U.S. Senate,,Elizabeth Warren,D,626
+Norfolk,,Braintree 2A,U.S. Senate,,Elizabeth Warren,D,736
+Norfolk,,Braintree 2B,U.S. Senate,,Elizabeth Warren,D,712
+Norfolk,,Braintree 3A,U.S. Senate,,Elizabeth Warren,D,754
+Norfolk,,Braintree 3B,U.S. Senate,,Elizabeth Warren,D,766
+Norfolk,,Braintree 4A,U.S. Senate,,Elizabeth Warren,D,688
+Norfolk,,Braintree 4B,U.S. Senate,,Elizabeth Warren,D,654
+Norfolk,,Braintree 5A,U.S. Senate,,Elizabeth Warren,D,655
+Norfolk,,Braintree 5B,U.S. Senate,,Elizabeth Warren,D,705
+Norfolk,,Braintree 6A,U.S. Senate,,Elizabeth Warren,D,778
+Norfolk,,Braintree 6B,U.S. Senate,,Elizabeth Warren,D,714
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,8478
+Norfolk,,Brookline 01,U.S. Senate,,Elizabeth Warren,D,1259
+Norfolk,,Brookline 02,U.S. Senate,,Elizabeth Warren,D,958
+Norfolk,,Brookline 03,U.S. Senate,,Elizabeth Warren,D,1383
+Norfolk,,Brookline 04,U.S. Senate,,Elizabeth Warren,D,1254
+Norfolk,,Brookline 05,U.S. Senate,,Elizabeth Warren,D,1490
+Norfolk,,Brookline 06,U.S. Senate,,Elizabeth Warren,D,1483
+Norfolk,,Brookline 07,U.S. Senate,,Elizabeth Warren,D,1309
+Norfolk,,Brookline 08,U.S. Senate,,Elizabeth Warren,D,1438
+Norfolk,,Brookline 09,U.S. Senate,,Elizabeth Warren,D,1340
+Norfolk,,Brookline 10,U.S. Senate,,Elizabeth Warren,D,1274
+Norfolk,,Brookline 11,U.S. Senate,,Elizabeth Warren,D,1462
+Norfolk,,Brookline 12,U.S. Senate,,Elizabeth Warren,D,1657
+Norfolk,,Brookline 13,U.S. Senate,,Elizabeth Warren,D,1314
+Norfolk,,Brookline 14,U.S. Senate,,Elizabeth Warren,D,1187
+Norfolk,,Brookline 15,U.S. Senate,,Elizabeth Warren,D,1138
+Norfolk,,Brookline 16,U.S. Senate,,Elizabeth Warren,D,1122
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,21068
+Norfolk,,Canton 1,U.S. Senate,,Elizabeth Warren,D,905
+Norfolk,,Canton 2,U.S. Senate,,Elizabeth Warren,D,1009
+Norfolk,,Canton 3,U.S. Senate,,Elizabeth Warren,D,907
+Norfolk,,Canton 4,U.S. Senate,,Elizabeth Warren,D,932
+Norfolk,,Canton 5,U.S. Senate,,Elizabeth Warren,D,946
+Norfolk,,Canton 6,U.S. Senate,,Elizabeth Warren,D,925
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,5624
+Norfolk,,Cohasset 1,U.S. Senate,,Elizabeth Warren,D,929
+Norfolk,,Cohasset 2,U.S. Senate,,Elizabeth Warren,D,965
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,1894
+Norfolk,,Dedham 1,U.S. Senate,,Elizabeth Warren,D,1071
+Norfolk,,Dedham 2,U.S. Senate,,Elizabeth Warren,D,1026
+Norfolk,,Dedham 3,U.S. Senate,,Elizabeth Warren,D,938
+Norfolk,,Dedham 4,U.S. Senate,,Elizabeth Warren,D,919
+Norfolk,,Dedham 5,U.S. Senate,,Elizabeth Warren,D,884
+Norfolk,,Dedham 6,U.S. Senate,,Elizabeth Warren,D,1025
+Norfolk,,Dedham 7,U.S. Senate,,Elizabeth Warren,D,852
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,6715
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,1285
+Norfolk,,Foxborough 1,U.S. Senate,,Elizabeth Warren,D,766
+Norfolk,,Foxborough 2,U.S. Senate,,Elizabeth Warren,D,836
+Norfolk,,Foxborough 3,U.S. Senate,,Elizabeth Warren,D,744
+Norfolk,,Foxborough 4,U.S. Senate,,Elizabeth Warren,D,802
+Norfolk,,Foxborough 5,U.S. Senate,,Elizabeth Warren,D,665
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,3813
+Norfolk,,Franklin 1,U.S. Senate,,Elizabeth Warren,D,829
+Norfolk,,Franklin 2,U.S. Senate,,Elizabeth Warren,D,787
+Norfolk,,Franklin 3,U.S. Senate,,Elizabeth Warren,D,877
+Norfolk,,Franklin 4,U.S. Senate,,Elizabeth Warren,D,821
+Norfolk,,Franklin 5,U.S. Senate,,Elizabeth Warren,D,896
+Norfolk,,Franklin 6,U.S. Senate,,Elizabeth Warren,D,864
+Norfolk,,Franklin 7,U.S. Senate,,Elizabeth Warren,D,858
+Norfolk,,Franklin 8,U.S. Senate,,Elizabeth Warren,D,777
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,6709
+Norfolk,,Holbrook 1,U.S. Senate,,Elizabeth Warren,D,686
+Norfolk,,Holbrook 2,U.S. Senate,,Elizabeth Warren,D,628
+Norfolk,,Holbrook 3,U.S. Senate,,Elizabeth Warren,D,617
+Norfolk,,Holbrook 4,U.S. Senate,,Elizabeth Warren,D,659
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,2590
+Norfolk,,Medfield 1,U.S. Senate,,Elizabeth Warren,D,754
+Norfolk,,Medfield 2,U.S. Senate,,Elizabeth Warren,D,677
+Norfolk,,Medfield 3,U.S. Senate,,Elizabeth Warren,D,744
+Norfolk,,Medfield 4,U.S. Senate,,Elizabeth Warren,D,657
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,2832
+Norfolk,,Medway 1,U.S. Senate,,Elizabeth Warren,D,659
+Norfolk,,Medway 2,U.S. Senate,,Elizabeth Warren,D,761
+Norfolk,,Medway 3,U.S. Senate,,Elizabeth Warren,D,739
+Norfolk,,Medway 4,U.S. Senate,,Elizabeth Warren,D,756
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,2915
+Norfolk,,Millis 1,U.S. Senate,,Elizabeth Warren,D,654
+Norfolk,,Millis 2,U.S. Senate,,Elizabeth Warren,D,625
+Norfolk,,Millis 3,U.S. Senate,,Elizabeth Warren,D,655
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,1934
+Norfolk,,Milton 01,U.S. Senate,,Elizabeth Warren,D,1209
+Norfolk,,Milton 02,U.S. Senate,,Elizabeth Warren,D,1136
+Norfolk,,Milton 03,U.S. Senate,,Elizabeth Warren,D,862
+Norfolk,,Milton 04,U.S. Senate,,Elizabeth Warren,D,1014
+Norfolk,,Milton 05,U.S. Senate,,Elizabeth Warren,D,680
+Norfolk,,Milton 06,U.S. Senate,,Elizabeth Warren,D,741
+Norfolk,,Milton 07,U.S. Senate,,Elizabeth Warren,D,683
+Norfolk,,Milton 08,U.S. Senate,,Elizabeth Warren,D,727
+Norfolk,,Milton 09,U.S. Senate,,Elizabeth Warren,D,622
+Norfolk,,Milton 10,U.S. Senate,,Elizabeth Warren,D,817
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,8491
+Norfolk,,Needham A,U.S. Senate,,Elizabeth Warren,D,837
+Norfolk,,Needham B,U.S. Senate,,Elizabeth Warren,D,899
+Norfolk,,Needham C,U.S. Senate,,Elizabeth Warren,D,874
+Norfolk,,Needham D,U.S. Senate,,Elizabeth Warren,D,908
+Norfolk,,Needham E,U.S. Senate,,Elizabeth Warren,D,962
+Norfolk,,Needham F,U.S. Senate,,Elizabeth Warren,D,1025
+Norfolk,,Needham G,U.S. Senate,,Elizabeth Warren,D,767
+Norfolk,,Needham H,U.S. Senate,,Elizabeth Warren,D,902
+Norfolk,,Needham I,U.S. Senate,,Elizabeth Warren,D,972
+Norfolk,,Needham J,U.S. Senate,,Elizabeth Warren,D,908
+Norfolk,,Needham WA,U.S. Senate,,Elizabeth Warren,D,9054
+Norfolk,,Norfolk 1,U.S. Senate,,Elizabeth Warren,D,405
+Norfolk,,Norfolk 2,U.S. Senate,,Elizabeth Warren,D,803
+Norfolk,,Norfolk 3,U.S. Senate,,Elizabeth Warren,D,673
+Norfolk,,Norfolk WA,U.S. Senate,,Elizabeth Warren,D,1881
+Norfolk,,Norwood 1,U.S. Senate,,Elizabeth Warren,D,821
+Norfolk,,Norwood 2,U.S. Senate,,Elizabeth Warren,D,809
+Norfolk,,Norwood 3,U.S. Senate,,Elizabeth Warren,D,813
+Norfolk,,Norwood 4,U.S. Senate,,Elizabeth Warren,D,791
+Norfolk,,Norwood 5,U.S. Senate,,Elizabeth Warren,D,689
+Norfolk,,Norwood 6,U.S. Senate,,Elizabeth Warren,D,636
+Norfolk,,Norwood 7,U.S. Senate,,Elizabeth Warren,D,719
+Norfolk,,Norwood 8,U.S. Senate,,Elizabeth Warren,D,917
+Norfolk,,Norwood 9,U.S. Senate,,Elizabeth Warren,D,716
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,6911
+Norfolk,,Plainville 1,U.S. Senate,,Elizabeth Warren,D,583
+Norfolk,,Plainville 2,U.S. Senate,,Elizabeth Warren,D,489
+Norfolk,,Plainville 3,U.S. Senate,,Elizabeth Warren,D,518
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,1590
+Norfolk,,Quincy W1P1,U.S. Senate,,Elizabeth Warren,D,675
+Norfolk,,Quincy W1P2,U.S. Senate,,Elizabeth Warren,D,661
+Norfolk,,Quincy W1P3,U.S. Senate,,Elizabeth Warren,D,806
+Norfolk,,Quincy W1P4,U.S. Senate,,Elizabeth Warren,D,800
+Norfolk,,Quincy W1P5,U.S. Senate,,Elizabeth Warren,D,917
+Norfolk,,Quincy W2P1,U.S. Senate,,Elizabeth Warren,D,724
+Norfolk,,Quincy W2P2,U.S. Senate,,Elizabeth Warren,D,795
+Norfolk,,Quincy W2P3,U.S. Senate,,Elizabeth Warren,D,407
+Norfolk,,Quincy W2P3A,U.S. Senate,,Elizabeth Warren,D,68
+Norfolk,,Quincy W2P4,U.S. Senate,,Elizabeth Warren,D,609
+Norfolk,,Quincy W2P5,U.S. Senate,,Elizabeth Warren,D,782
+Norfolk,,Quincy W3P1,U.S. Senate,,Elizabeth Warren,D,816
+Norfolk,,Quincy W3P2,U.S. Senate,,Elizabeth Warren,D,723
+Norfolk,,Quincy W3P3,U.S. Senate,,Elizabeth Warren,D,590
+Norfolk,,Quincy W3P4,U.S. Senate,,Elizabeth Warren,D,720
+Norfolk,,Quincy W3P5,U.S. Senate,,Elizabeth Warren,D,627
+Norfolk,,Quincy W4P1,U.S. Senate,,Elizabeth Warren,D,690
+Norfolk,,Quincy W4P2,U.S. Senate,,Elizabeth Warren,D,805
+Norfolk,,Quincy W4P3,U.S. Senate,,Elizabeth Warren,D,732
+Norfolk,,Quincy W4P4,U.S. Senate,,Elizabeth Warren,D,696
+Norfolk,,Quincy W4P5,U.S. Senate,,Elizabeth Warren,D,706
+Norfolk,,Quincy W5P1,U.S. Senate,,Elizabeth Warren,D,721
+Norfolk,,Quincy W5P2,U.S. Senate,,Elizabeth Warren,D,734
+Norfolk,,Quincy W5P3,U.S. Senate,,Elizabeth Warren,D,764
+Norfolk,,Quincy W5P4,U.S. Senate,,Elizabeth Warren,D,655
+Norfolk,,Quincy W5P5,U.S. Senate,,Elizabeth Warren,D,765
+Norfolk,,Quincy W6P1,U.S. Senate,,Elizabeth Warren,D,714
+Norfolk,,Quincy W6P2,U.S. Senate,,Elizabeth Warren,D,529
+Norfolk,,Quincy W6P3,U.S. Senate,,Elizabeth Warren,D,806
+Norfolk,,Quincy W6P4,U.S. Senate,,Elizabeth Warren,D,708
+Norfolk,,Quincy W6P5,U.S. Senate,,Elizabeth Warren,D,835
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,21580
+Norfolk,,Randolph 1,U.S. Senate,,Elizabeth Warren,D,909
+Norfolk,,Randolph 2,U.S. Senate,,Elizabeth Warren,D,883
+Norfolk,,Randolph 3,U.S. Senate,,Elizabeth Warren,D,817
+Norfolk,,Randolph 4,U.S. Senate,,Elizabeth Warren,D,926
+Norfolk,,Randolph 5,U.S. Senate,,Elizabeth Warren,D,788
+Norfolk,,Randolph 6,U.S. Senate,,Elizabeth Warren,D,785
+Norfolk,,Randolph 7,U.S. Senate,,Elizabeth Warren,D,883
+Norfolk,,Randolph 8,U.S. Senate,,Elizabeth Warren,D,996
+Norfolk,,Randolph 9,U.S. Senate,,Elizabeth Warren,D,932
+Norfolk,,Randolph 10,U.S. Senate,,Elizabeth Warren,D,901
+Norfolk,,Randolph 11,U.S. Senate,,Elizabeth Warren,D,905
+Norfolk,,Randolph 12,U.S. Senate,,Elizabeth Warren,D,855
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,10580
+Norfolk,,Sharon 1,U.S. Senate,,Elizabeth Warren,D,1317
+Norfolk,,Sharon 2,U.S. Senate,,Elizabeth Warren,D,1067
+Norfolk,,Sharon 3,U.S. Senate,,Elizabeth Warren,D,1194
+Norfolk,,Sharon 4,U.S. Senate,,Elizabeth Warren,D,1252
+Norfolk,,Sharon 5,U.S. Senate,,Elizabeth Warren,D,1026
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,5856
+Norfolk,,Stoughton 1,U.S. Senate,,Elizabeth Warren,D,1004
+Norfolk,,Stoughton 2,U.S. Senate,,Elizabeth Warren,D,880
+Norfolk,,Stoughton 3,U.S. Senate,,Elizabeth Warren,D,839
+Norfolk,,Stoughton 4,U.S. Senate,,Elizabeth Warren,D,896
+Norfolk,,Stoughton 5,U.S. Senate,,Elizabeth Warren,D,765
+Norfolk,,Stoughton 6,U.S. Senate,,Elizabeth Warren,D,1121
+Norfolk,,Stoughton 7,U.S. Senate,,Elizabeth Warren,D,853
+Norfolk,,Stoughton 8,U.S. Senate,,Elizabeth Warren,D,708
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,7066
+Norfolk,,Walpole 1,U.S. Senate,,Elizabeth Warren,D,610
+Norfolk,,Walpole 2,U.S. Senate,,Elizabeth Warren,D,651
+Norfolk,,Walpole 3,U.S. Senate,,Elizabeth Warren,D,725
+Norfolk,,Walpole 4,U.S. Senate,,Elizabeth Warren,D,687
+Norfolk,,Walpole 5,U.S. Senate,,Elizabeth Warren,D,526
+Norfolk,,Walpole 6,U.S. Senate,,Elizabeth Warren,D,660
+Norfolk,,Walpole 7,U.S. Senate,,Elizabeth Warren,D,607
+Norfolk,,Walpole 8,U.S. Senate,,Elizabeth Warren,D,581
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,5047
+Norfolk,,Wellesley A,U.S. Senate,,Elizabeth Warren,D,981
+Norfolk,,Wellesley B,U.S. Senate,,Elizabeth Warren,D,1175
+Norfolk,,Wellesley C,U.S. Senate,,Elizabeth Warren,D,733
+Norfolk,,Wellesley D,U.S. Senate,,Elizabeth Warren,D,1155
+Norfolk,,Wellesley E,U.S. Senate,,Elizabeth Warren,D,954
+Norfolk,,Wellesley F,U.S. Senate,,Elizabeth Warren,D,635
+Norfolk,,Wellesley G,U.S. Senate,,Elizabeth Warren,D,887
+Norfolk,,Wellesley H,U.S. Senate,,Elizabeth Warren,D,950
+Middlesex,,Wellesley WA,U.S. Senate,,Elizabeth Warren,D,7470
+Norfolk,,Westwood 1,U.S. Senate,,Elizabeth Warren,D,970
+Norfolk,,Westwood 2,U.S. Senate,,Elizabeth Warren,D,987
+Norfolk,,Westwood 3,U.S. Senate,,Elizabeth Warren,D,973
+Norfolk,,Westwood 4,U.S. Senate,,Elizabeth Warren,D,787
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,3717
+Norfolk,,Weymouth 01,U.S. Senate,,Elizabeth Warren,D,749
+Norfolk,,Weymouth 02,U.S. Senate,,Elizabeth Warren,D,803
+Norfolk,,Weymouth 03,U.S. Senate,,Elizabeth Warren,D,734
+Norfolk,,Weymouth 04,U.S. Senate,,Elizabeth Warren,D,668
+Norfolk,,Weymouth 05,U.S. Senate,,Elizabeth Warren,D,706
+Norfolk,,Weymouth 06,U.S. Senate,,Elizabeth Warren,D,763
+Norfolk,,Weymouth 07,U.S. Senate,,Elizabeth Warren,D,663
+Norfolk,,Weymouth 08,U.S. Senate,,Elizabeth Warren,D,740
+Norfolk,,Weymouth 09,U.S. Senate,,Elizabeth Warren,D,715
+Norfolk,,Weymouth 10,U.S. Senate,,Elizabeth Warren,D,660
+Norfolk,,Weymouth 11,U.S. Senate,,Elizabeth Warren,D,711
+Norfolk,,Weymouth 12,U.S. Senate,,Elizabeth Warren,D,729
+Norfolk,,Weymouth 13,U.S. Senate,,Elizabeth Warren,D,631
+Norfolk,,Weymouth 14,U.S. Senate,,Elizabeth Warren,D,637
+Norfolk,,Weymouth 15,U.S. Senate,,Elizabeth Warren,D,754
+Norfolk,,Weymouth 16,U.S. Senate,,Elizabeth Warren,D,759
+Norfolk,,Weymouth 17,U.S. Senate,,Elizabeth Warren,D,636
+Norfolk,,Weymouth 18,U.S. Senate,,Elizabeth Warren,D,697
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,12755
+Norfolk,,Wrentham 1,U.S. Senate,,Elizabeth Warren,D,633
+Norfolk,,Wrentham 2,U.S. Senate,,Elizabeth Warren,D,596
+Norfolk,,Wrentham 3,U.S. Senate,,Elizabeth Warren,D,650
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,1879
+Norfolk,,,U.S. Senate,,Elizabeth Warren,D,174269
 Norfolk,,,U.S. Senate,,Scott Brown,R,1335
 Norfolk,,Bellingham 1,U.S. Senate,,Scott Brown,R,994
 Norfolk,,Bellingham 2,U.S. Senate,,Scott Brown,R,1061
@@ -44755,7 +44755,7 @@ Suffolk,,Winthrop 6,State House,S19,Blanks,,82
 Suffolk,,,State House,S19,Blanks,,372
 Suffolk,,,State House,REP,Blanks,,
 Worcester,,,President,,Barack Obama,D,1632
-Worcester,,Athol ,President,,Barack Obama,D,878
+Worcester,,Athol,President,,Barack Obama,D,878
 Worcester,,Athol 2,President,,Barack Obama,D,758
 Worcester,,Athol 3,President,,Barack Obama,D,907
 Worcester,,,President,,Barack Obama,D,2543
@@ -45038,7 +45038,7 @@ Worcester,,Worcester W10P05,President,,Barack Obama,D,694
 Worcester,,,President,,Barack Obama,D,42210
 Worcester,,,President,,Barack Obama,D,197279
 Worcester,,,President,,Mitt Romney,R,1535
-Worcester,,Athol ,President,,Mitt Romney,R,810
+Worcester,,Athol,President,,Mitt Romney,R,810
 Worcester,,Athol 2,President,,Mitt Romney,R,671
 Worcester,,Athol 3,President,,Mitt Romney,R,598
 Worcester,,,President,,Mitt Romney,R,2079
@@ -45321,7 +45321,7 @@ Worcester,,Worcester W10P05,President,,Mitt Romney,R,66
 Worcester,,,President,,Mitt Romney,R,17949
 Worcester,,,President,,Mitt Romney,R,162439
 Worcester,,,President,,Gary Johnson,LBT,38
-Worcester,,Athol ,President,,Gary Johnson,LBT,27
+Worcester,,Athol,President,,Gary Johnson,LBT,27
 Worcester,,Athol 2,President,,Gary Johnson,LBT,26
 Worcester,,Athol 3,President,,Gary Johnson,LBT,25
 Worcester,,,President,,Gary Johnson,LBT,78
@@ -45604,7 +45604,7 @@ Worcester,,Worcester W10P05,President,,Gary Johnson,LBT,5
 Worcester,,,President,,Gary Johnson,LBT,613
 Worcester,,,President,,Gary Johnson,LBT,4359
 Worcester,,,President,,Jill Stein,GRN,24
-Worcester,,Athol ,President,,Jill Stein,GRN,15
+Worcester,,Athol,President,,Jill Stein,GRN,15
 Worcester,,Athol 2,President,,Jill Stein,GRN,10
 Worcester,,Athol 3,President,,Jill Stein,GRN,16
 Worcester,,,President,,Jill Stein,GRN,41
@@ -45887,7 +45887,7 @@ Worcester,,Worcester W10P05,President,,Jill Stein,GRN,3
 Worcester,,,President,,Jill Stein,GRN,445
 Worcester,,,President,,Jill Stein,GRN,2148
 Worcester,,,President,,Write-ins,,18
-Worcester,,Athol ,President,,Write-ins,,3
+Worcester,,Athol,President,,Write-ins,,3
 Worcester,,Athol 2,President,,Write-ins,,5
 Worcester,,Athol 3,President,,Write-ins,,6
 Worcester,,,President,,Write-ins,,14
@@ -46170,7 +46170,7 @@ Worcester,,Worcester W10P05,President,,Write-ins,,1
 Worcester,,,President,,Write-ins,,176
 Worcester,,,President,,Write-ins,,938
 Worcester,,,President,,Blanks,,7
-Worcester,,Athol ,President,,Blanks,,5
+Worcester,,Athol,President,,Blanks,,5
 Worcester,,Athol 2,President,,Blanks,,6
 Worcester,,Athol 3,President,,Blanks,,4
 Worcester,,,President,,Blanks,,15
@@ -46453,7 +46453,7 @@ Worcester,,Worcester W10P05,President,,Blanks,,3
 Worcester,,,President,,Blanks,,315
 Worcester,,,President,,Blanks,,1743
 Worcester,,,U.S. Senate,,Elizabeth Warren,D,1424
-Worcester,,Athol ,U.S. Senate,,Elizabeth Warren,D,730
+Worcester,,Athol,U.S. Senate,,Elizabeth Warren,D,730
 Worcester,,Athol 2,U.S. Senate,,Elizabeth Warren,D,623
 Worcester,,Athol 3,U.S. Senate,,Elizabeth Warren,D,742
 Worcester,,,U.S. Senate,,Elizabeth Warren,D,2095
@@ -46736,7 +46736,7 @@ Worcester,,Worcester W10P05,U.S. Senate,,Elizabeth Warren,D,668
 Worcester,,,U.S. Senate,,Elizabeth Warren,D,38051
 Worcester,,,U.S. Senate,,Elizabeth Warren,D,167633
 Worcester,,,U.S. Senate,,Scott Brown,R,1803
-Worcester,,Athol ,U.S. Senate,,Scott Brown,R,991
+Worcester,,Athol,U.S. Senate,,Scott Brown,R,991
 Worcester,,Athol 2,U.S. Senate,,Scott Brown,R,842
 Worcester,,Athol 3,U.S. Senate,,Scott Brown,R,802
 Worcester,,,U.S. Senate,,Scott Brown,R,2635
@@ -47019,7 +47019,7 @@ Worcester,,Worcester W10P05,U.S. Senate,,Scott Brown,R,94
 Worcester,,,U.S. Senate,,Scott Brown,R,23037
 Worcester,,,U.S. Senate,,Scott Brown,R,198262
 Worcester,,,U.S. Senate,,Write-ins,,5
-Worcester,,Athol ,U.S. Senate,,Write-ins,,3
+Worcester,,Athol,U.S. Senate,,Write-ins,,3
 Worcester,,Athol 2,U.S. Senate,,Write-ins,,3
 Worcester,,Athol 3,U.S. Senate,,Write-ins,,0
 Worcester,,,U.S. Senate,,Write-ins,,6
@@ -47302,7 +47302,7 @@ Worcester,,Worcester W10P05,U.S. Senate,,Write-ins,,2
 Worcester,,,U.S. Senate,,Write-ins,,66
 Worcester,,,U.S. Senate,,Write-ins,,245
 Worcester,,,U.S. Senate,,Blanks,,22
-Worcester,,Athol ,U.S. Senate,,Blanks,,14
+Worcester,,Athol,U.S. Senate,,Blanks,,14
 Worcester,,Athol 2,U.S. Senate,,Blanks,,8
 Worcester,,Athol 3,U.S. Senate,,Blanks,,12
 Worcester,,,U.S. Senate,,Blanks,,34
@@ -47585,7 +47585,7 @@ Worcester,,Worcester W10P05,U.S. Senate,,Blanks,,8
 Worcester,,,U.S. Senate,,Blanks,,554
 Worcester,,,U.S. Senate,,Blanks,,2766
 Worcester,,,U.S. House,3,Nicola Tsongas,,1844
-Worcester,,Athol ,U.S. House,2,James McGovern,,1313
+Worcester,,Athol,U.S. House,2,James McGovern,,1313
 Worcester,,Athol 2,U.S. House,2,James McGovern,,1131
 Worcester,,Athol 3,U.S. House,2,James McGovern,,1207
 Worcester,,,U.S. House,2,James McGovern,,3651
@@ -47942,7 +47942,7 @@ Worcester,,Milford 8,U.S. House,4,David Rosa,UN,45
 Worcester,,,U.S. House,4,David Rosa,UN,321
 Worcester,,,U.S. House,4,David Rosa,UN,402
 Worcester,,,U.S. House,3,Write-ins,,8
-Worcester,,Athol ,U.S. House,2,Write-ins,,27
+Worcester,,Athol,U.S. House,2,Write-ins,,27
 Worcester,,Athol 2,U.S. House,2,Write-ins,,19
 Worcester,,Athol 3,U.S. House,2,Write-ins,,12
 Worcester,,,U.S. House,2,Write-ins,,58
@@ -48225,7 +48225,7 @@ Worcester,,Worcester W10P05,U.S. House,2,Write-ins,,14
 Worcester,,,U.S. House,2,Write-ins,,1136
 Worcester,,,U.S. House,1,Write-ins,,
 Worcester,,,U.S. House,3,Blanks,,141
-Worcester,,Athol ,U.S. House,2,Blanks,,398
+Worcester,,Athol,U.S. House,2,Blanks,,398
 Worcester,,Athol 2,U.S. House,2,Blanks,,326
 Worcester,,Athol 3,U.S. House,2,Blanks,,337
 Worcester,,,U.S. House,2,Blanks,,1061
@@ -48508,7 +48508,7 @@ Worcester,,Worcester W10P05,U.S. House,2,Blanks,,93
 Worcester,,,U.S. House,2,Blanks,,10498
 Worcester,,,U.S. House,1,Blanks,,73155
 Worcester,,,State Senate,WHHM,Stephen Brewer,D,2452
-Worcester,,Athol ,State Senate,WHHM,Stephen Brewer,D,1450
+Worcester,,Athol,State Senate,WHHM,Stephen Brewer,D,1450
 Worcester,,Athol 2,State Senate,WHHM,Stephen Brewer,D,1253
 Worcester,,Athol 3,State Senate,WHHM,Stephen Brewer,D,1340
 Worcester,,,State Senate,WHHM,Stephen Brewer,D,4043
@@ -48862,7 +48862,7 @@ Worcester,,Worcester W08P05,State Senate,W2,Stephen Simonian,R,178
 Worcester,,,State Senate,W2,Stephen Simonian,R,#REF!
 Worcester,,,State Senate,SEN,Republicans,R,30414
 Worcester,,,State Senate,WHHM,Write-ins,,40
-Worcester,,Athol ,State Senate,WHHM,Write-ins,,18
+Worcester,,Athol,State Senate,WHHM,Write-ins,,18
 Worcester,,Athol 2,State Senate,WHHM,Write-ins,,7
 Worcester,,Athol 3,State Senate,WHHM,Write-ins,,10
 Worcester,,,State Senate,WHHM,Write-ins,,35
@@ -49145,7 +49145,7 @@ Worcester,,Worcester W10P05,State Senate,W1,Write-ins,,16
 Worcester,,,State Senate,SEN,Write-ins,,0
 Worcester,,,State Senate,SEN,Write-ins,,2482
 Worcester,,,State Senate,WHHM,Blanks,,762
-Worcester,,Athol ,State Senate,WHHM,Blanks,,270
+Worcester,,Athol,State Senate,WHHM,Blanks,,270
 Worcester,,Athol 2,State Senate,WHHM,Blanks,,216
 Worcester,,Athol 3,State Senate,WHHM,Blanks,,206
 Worcester,,,State Senate,WHHM,Blanks,,692
@@ -49428,7 +49428,7 @@ Worcester,,Worcester W10P05,State Senate,W1,Blanks,,127
 Worcester,,,State Senate,SEN,Blanks,,0
 Worcester,,,State Senate,SEN,Blanks,,71412
 Worcester,,,State House,W2,Jonathan Zlotnik,D,1465
-Worcester,,Athol ,State House,F2,Denise Andrews,D,561
+Worcester,,Athol,State House,F2,Denise Andrews,D,561
 Worcester,,Athol 2,State House,F2,Denise Andrews,D,488
 Worcester,,Athol 3,State House,F2,Denise Andrews,D,568
 Worcester,,,State House,F2,Denise Andrews,D,1617
@@ -49649,7 +49649,7 @@ Worcester,,Worcester W10P05,State House,W15,Mary Keefe,D,611
 Worcester,,,State House,REP,Democrats,D,
 Worcester,,,State House,REP,Democrats,D,164751
 Worcester,,,State House,W2,Richard Bastien,R,1537
-Worcester,,Athol ,State House,F2,Susannah Whipps Lee,R,1026
+Worcester,,Athol,State House,F2,Susannah Whipps Lee,R,1026
 Worcester,,Athol 2,State House,F2,Susannah Whipps Lee,R,851
 Worcester,,Athol 3,State House,F2,Susannah Whipps Lee,R,837
 Worcester,,,State House,F2,Susannah Whipps Lee,R,2714
@@ -49866,7 +49866,7 @@ Worcester,,Worcester W10P04,State House,W15,Brian O'Malley,R,86
 Worcester,,Worcester W10P05,State House,W15,Brian O'Malley,R,86
 Worcester,,,State House,REP,Republicans,R,
 Worcester,,,State House,REP,Republicans,R,144453
-Worcester,,Athol ,State House,F2,Richard Schober,UN,113
+Worcester,,Athol,State House,F2,Richard Schober,UN,113
 Worcester,,Athol 2,State House,F2,Richard Schober,UN,100
 Worcester,,Athol 3,State House,F2,Richard Schober,UN,97
 Worcester,,,State House,F2,Richard Schober,UN,310
@@ -49894,7 +49894,7 @@ Worcester,,Worcester W03P05,State House,W14,Winthrop Handy,UN,70
 Worcester,,,State House,REP,Winthrop Handy,UN,
 Worcester,,,State House,REP,Unenrolled,UN,2704
 Worcester,,,State House,W2,Write-ins,,7
-Worcester,,Athol ,State House,F2,Write-ins,,3
+Worcester,,Athol,State House,F2,Write-ins,,3
 Worcester,,Athol 2,State House,F2,Write-ins,,5
 Worcester,,Athol 3,State House,F2,Write-ins,,7
 Worcester,,,State House,F2,Write-ins,,15
@@ -50177,7 +50177,7 @@ Worcester,,Worcester W10P05,State House,W15,Write-ins,,5
 Worcester,,,State House,REP,Write-ins,,
 Worcester,,,State House,REP,Write-ins,,1713
 Worcester,,,State House,W2,Blanks,,245
-Worcester,,Athol ,State House,F2,Blanks,,35
+Worcester,,Athol,State House,F2,Blanks,,35
 Worcester,,Athol 2,State House,F2,Blanks,,32
 Worcester,,Athol 3,State House,F2,Blanks,,47
 Worcester,,,State House,F2,Blanks,,114
