@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 def parse_president(year):
     url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:1/stage:General/show_details:1"
     r = requests.get(url)
-    soup = BeautifulSoup(r.text)
+    soup = BeautifulSoup(r.text, "html.parser")
     president_candidates = []
     election_links = []
     districts = {}
@@ -48,7 +48,7 @@ def parse_president(year):
 def parse_governor(year):
     url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:3/stage:General/show_details:1"
     r = requests.get(url)
-    soup = BeautifulSoup(r.text)
+    soup = BeautifulSoup(r.text, "html.parser")
     president_candidates = []
     election_links = []
     districts = {}
@@ -89,7 +89,7 @@ def parse_governor(year):
 def parse_us_senate(year):
     url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:6/stage:General"
     r = requests.get(url)
-    soup = BeautifulSoup(r.text)
+    soup = BeautifulSoup(r.text, "html.parser")
     state_house_candidates = []
     election_links = []
     districts = {}
@@ -125,7 +125,7 @@ def parse_us_senate(year):
 def parse_secretary(year):
     url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:45/stage:General"
     r = requests.get(url)
-    soup = BeautifulSoup(r.text)
+    soup = BeautifulSoup(r.text, "html.parser")
     state_house_candidates = []
     election_links = []
     districts = {}
@@ -161,7 +161,7 @@ def parse_secretary(year):
 def parse_treasurer(year):
     url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:53/stage:General"
     r = requests.get(url)
-    soup = BeautifulSoup(r.text)
+    soup = BeautifulSoup(r.text, "html.parser")
     state_house_candidates = []
     election_links = []
     districts = {}
@@ -197,7 +197,7 @@ def parse_treasurer(year):
 def parse_auditor(year):
     url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:90/stage:General"
     r = requests.get(url)
-    soup = BeautifulSoup(r.text)
+    soup = BeautifulSoup(r.text, "html.parser")
     state_house_candidates = []
     election_links = []
     districts = {}
@@ -233,7 +233,7 @@ def parse_auditor(year):
 def parse_attorney_general(year):
     url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:12/stage:General"
     r = requests.get(url)
-    soup = BeautifulSoup(r.text)
+    soup = BeautifulSoup(r.text, "html.parser")
     state_house_candidates = []
     election_links = []
     districts = {}
@@ -269,7 +269,7 @@ def parse_attorney_general(year):
 def parse_council(year):
     url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:529/stage:General"
     r = requests.get(url)
-    soup = BeautifulSoup(r.text)
+    soup = BeautifulSoup(r.text, "html.parser")
     state_house_candidates = []
     election_links = []
     districts = {}
@@ -311,7 +311,7 @@ def parse_council(year):
 def parse_us_house(year):
     url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:5/stage:General"
     r = requests.get(url)
-    soup = BeautifulSoup(r.text)
+    soup = BeautifulSoup(r.text, "html.parser")
     state_house_candidates = []
     election_links = []
     districts = {}
@@ -397,7 +397,7 @@ def parse_state_senate(year):
 def parse_state_house(year):
     url = "http://electionstats.state.ma.us/elections/search/year_from:" + year + "/year_to:" + year + "/office_id:8/stage:General"
     r = requests.get(url)
-    soup = BeautifulSoup(r.text)
+    soup = BeautifulSoup(r.text, "html.parser")
     state_house_candidates = []
     election_links = []
     districts = {}
