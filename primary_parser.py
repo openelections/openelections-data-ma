@@ -64,7 +64,7 @@ def parse_governor(year):
             election_links.append(download_url)
             try:
                 district = row.findAll('td')[2].text
-            except:
+            except IndexError:
                 districts[download_url] = district
         if row.text != '':
             president_candidates.append([{x.find('a').text : party} for x in row.findAll('td', {'class' : "candidate"}) if x.find('a') and x.find('a').text != ''])
@@ -327,7 +327,7 @@ def parse_council(year):
             election_links.append(download_url)
             try:
                 district = row.findAll('td')[2].text
-            except:
+            except IndexError:
                 districts[download_url] = district
         if row.text != '':
             state_house_candidates.append([{x.find('a').text : party} for x in row.findAll('td', {'class' : "candidate"}) if x.find('a') and x.find('a').text != ''])
@@ -375,7 +375,7 @@ def parse_us_house(year):
             election_links.append(download_url)
             try:
                 district = row.findAll('td')[2].text.replace(' Congressional','')
-            except:
+            except IndexError:
                 districts[download_url] = district
         if row.text != '':
             state_house_candidates.append([{x.find('a').text : party} for x in row.findAll('td', {'class' : "candidate"}) if x.find('a') and x.find('a').text != ''])
@@ -423,7 +423,7 @@ def parse_state_senate(year):
             election_links.append(download_url)
             try:
                 district = row.findAll('td')[2].text
-            except:
+            except IndexError:
                 districts[download_url] = district
         if row.text != '':
             state_senate_candidates.append([{x.find('a').text : party} for x in row.findAll('td', {'class' : "candidate"}) if x.find('a') and x.find('a').text != ''])
@@ -475,7 +475,7 @@ def parse_state_house(year):
             election_links.append(download_url)
             try:
                 district = row.findAll('td')[2].text
-            except:
+            except IndexError:
                 districts[download_url] = district
         if row.text != '':
             state_house_candidates.append([{x.find('a').text : party} for x in row.findAll('td', {'class' : "candidate"}) if x.find('a') and x.find('a').text != ''])
